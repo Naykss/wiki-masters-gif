@@ -128,6 +128,20 @@
 
 
 
+<script>
+// Déjà accepté aujourd'hui : pas d'avertissement (il revient demain à minuit)
+(function () {
+  try {
+    const d = new Date();
+    const today = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+    if (localStorage.getItem('safety-accepted-day') === today) {
+      const o = document.getElementById('safetyOverlay');
+      if (o) o.remove();
+    }
+  } catch (e) {}
+})();
+</script>
+
 <div class="wrap">
   <header>
     <div class="brand">
@@ -316,6 +330,11 @@ fetch("cartes.txt", { cache: "no-cache" })
 
 <script>
 function closeSafetyWarning() {
+  try {
+    const d = new Date();
+    const today = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
+    localStorage.setItem('safety-accepted-day', today);
+  } catch (e) {}
   const overlay = document.getElementById('safetyOverlay');
   if (overlay) overlay.remove();
 }
