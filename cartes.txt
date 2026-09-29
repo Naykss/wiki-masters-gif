@@ -228,6 +228,26 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lyman-alpha_forest.gif/
 
 ----------
 
+Histoire de la Chine
+
+SR
+
+étude et narration du passé de la Chine
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Territories_of_Dynasties_in_China.gif/330px-Territories_of_Dynasties_in_China.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+PERMAS
+
+C
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Gears4.gif/330px-Gears4.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 2024 RW1
 
 PC
@@ -235,6 +255,16 @@ PC
 petit astéroïde s'étant écrasé sur Terre en septembre 2024
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2024_RW1_Discovery_Images.gif/330px-2024_RW1_Discovery_Images.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Valétudo (lune)
+
+C
+
+lune de la planète Jupiter
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Valetudo_CFHT_precovery_2003-02-28_annotated.gif/330px-Valetudo_CFHT_precovery_2003-02-28_annotated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -305,6 +335,16 @@ SR
 polyèdre à 20 faces
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Icosahedron-rgb.gif/330px-Icosahedron-rgb.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Transports au Vietnam
+
+C
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Vietnam_railway_progress.gif/330px-Vietnam_railway_progress.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -465,6 +505,16 @@ R
 histoire du catalan
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Linguistic_map_Southwestern_Europe-en.gif/330px-Linguistic_map_Southwestern_Europe-en.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Vilebrequin (moteur)
+
+SR
+
+dispositif mécanique dans un moteur
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Cshaft.gif/330px-Cshaft.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -1608,6 +1658,16 @@ https://upload.wikimedia.org/wikipedia/commons/2/2b/Kakeya_needle.gif?utm_source
 
 ----------
 
+Radical 120
+
+C
+
+clé chinoise traditionnelle soie (U+2F77)
+
+https://upload.wikimedia.org/wikipedia/commons/2/2d/%E7%B3%B8-order.gif
+
+----------
+
 (3200) Phaéton
 
 PC
@@ -2088,6 +2148,16 @@ https://upload.wikimedia.org/wikipedia/commons/4/47/Amfm3.gif?utm_source=fr.wiki
 
 ----------
 
+Orbite géostationnaire
+
+SR
+
+type d'orbite
+
+https://upload.wikimedia.org/wikipedia/commons/4/49/Geostat.gif
+
+----------
+
 Énergie de dissociation d'une liaison
 
 PC
@@ -2148,6 +2218,16 @@ https://upload.wikimedia.org/wikipedia/commons/4/4e/Fusiform_gyrus_animation.gif
 
 ----------
 
+Moulage par soufflage
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Inyecci%C3%B3n-soplado.gif
+
+----------
+
 Bouteille en plastique
 
 R
@@ -2165,6 +2245,16 @@ R
 somme des énergie cinétique et énergie potentielle d'un système
 
 https://upload.wikimedia.org/wikipedia/commons/4/4e/Orbital_motion.gif
+
+----------
+
+Berlin-Uhr
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/4/4f/Berlin-Uhr-1650-1705.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -2308,6 +2398,16 @@ https://upload.wikimedia.org/wikipedia/commons/5/55/Frontalis_muscle_animation_s
 
 ----------
 
+Pont tournant
+
+PC
+
+pont dont le tablier peut tourner horizontalement
+
+https://upload.wikimedia.org/wikipedia/commons/5/55/MovableBridge_swing.gif
+
+----------
+
 Tesseract
 
 SR
@@ -2335,6 +2435,16 @@ SR
 algorithme de recherche dans un graphe
 
 https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Sillon (anatomie)
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/5/58/Lateral_sulcus.gif
 
 ----------
 
@@ -2668,6 +2778,16 @@ https://upload.wikimedia.org/wikipedia/commons/6/6d/Onde_cisaillement_impulsion_
 
 ----------
 
+Équation de Boltzmann
+
+SR
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
 Phagocytose
 
 SR
@@ -2795,6 +2915,16 @@ SR
 technique d'imagerie médicale
 
 https://upload.wikimedia.org/wikipedia/commons/7/72/Brain_chrischan_300.gif
+
+----------
+
+Imagerie par résonance magnétique
+
+SR
+
+technique d'imagerie médicale
+
+https://upload.wikimedia.org/wikipedia/commons/7/72/Brain_chrischan_300.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -3018,6 +3148,16 @@ https://upload.wikimedia.org/wikipedia/commons/7/7c/Truncatedoctahedron.gif
 
 ----------
 
+Planeur (jeu de la vie)
+
+PC
+
+structure du Jeu de la vie
+
+https://upload.wikimedia.org/wikipedia/commons/7/7e/GameOfLife_Glider_Animation.gif
+
+----------
+
 Homotopie
 
 R
@@ -3188,6 +3328,16 @@ https://upload.wikimedia.org/wikipedia/commons/8/86/Hypocycloid-01.gif?utm_sourc
 
 ----------
 
+Partie pétreuse de l'os temporal
+
+R
+
+partie de l'os temporal
+
+https://upload.wikimedia.org/wikipedia/commons/8/86/Left_temporal_bone_close-up_lateral_animation.gif
+
+----------
+
 Animation (audiovisuel)
 
 SR
@@ -3205,6 +3355,16 @@ SR
 Ligne imaginaire de la surface terrestre qui sépare le dernier fuseau horaire du premier.
 
 https://upload.wikimedia.org/wikipedia/commons/8/87/Dateline-animation-3deg-borderonly-180px.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Torsion d'une courbe
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/8/87/Frenetframehelix.gif
 
 ----------
 
@@ -3808,6 +3968,16 @@ https://upload.wikimedia.org/wikipedia/commons/a/a9/Heat_eqn.gif?utm_source=fr.w
 
 ----------
 
+Popping
+
+R
+
+type de danse
+
+https://upload.wikimedia.org/wikipedia/commons/a/a9/Popping_dancer.gif
+
+----------
+
 Cuboctaèdre tronqué
 
 PC
@@ -4195,6 +4365,16 @@ SR
 théorie pseudoscientifique
 
 https://upload.wikimedia.org/wikipedia/commons/b/bc/TransactionalAnalysis.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Radical 56
+
+C
+
+clé chinoise traditionnelle tirer (U+2F37)
+
+https://upload.wikimedia.org/wikipedia/commons/b/bd/%E5%BC%8B-order.gif
 
 ----------
 
@@ -4988,6 +5168,16 @@ https://upload.wikimedia.org/wikipedia/commons/e/ec/PIA05553.gif
 
 ----------
 
+Transit de Phobos depuis Mars
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/e/ec/PIA05553.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
 Griffe (cinéma)
 
 C
@@ -5448,6 +5638,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Coracoid_process_of_le
 
 ----------
 
+Terpapillon
+
+C
+
+papillon ternaire
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Petaloi.gif/330px-Petaloi.gif
+
+----------
+
 Dessin animé
 
 SR
@@ -5625,6 +5825,16 @@ R
 muscle de la cuisse
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Semimembranosus.gif/330px-Semimembranosus.gif
+
+----------
+
+Processus styloïde de l'os temporal
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Styloid_process_of_temporal_bone_-_animation02.gif/330px-Styloid_process_of_temporal_bone_-_animation02.gif
 
 ----------
 
@@ -5875,6 +6085,16 @@ C
 acteur britannique
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Syd_Crossley%2C_Dr_Pyckle%2C_and_Mr_Pride.gif/330px-Syd_Crossley%2C_Dr_Pyckle%2C_and_Mr_Pride.gif
+
+----------
+
+Série (mathématiques)
+
+R
+
+suite des sommes partielles des termes d'une suite d'objets mathématiques
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/01_Reihe-konvergiert_gegen_1.gif/330px-01_Reihe-konvergiert_gegen_1.gif
 
 ----------
 
@@ -6208,6 +6428,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Manoeuvre_bateau_-_Aba
 
 ----------
 
+Fosse crânienne moyenne
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Middle_cranial_fossa_-_animation.gif/330px-Middle_cranial_fossa_-_animation.gif
+
+----------
+
 Tri spaghetti
 
 C
@@ -6398,6 +6628,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Comet_Hartley_2.gif/33
 
 ----------
 
+Superpanache
+
+PC
+
+structure interne de la Terre, dans le manteau
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/LLSVP.gif/330px-LLSVP.gif
+
+----------
+
 Jupiter LXIV
 
 C
@@ -6435,6 +6675,16 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peroneus_tertius_muscle_-_animation.gif/330px-Peroneus_tertius_muscle_-_animation.gif
+
+----------
+
+Reptyl
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Reptyl_ouverture_e7...e3_Suite_d3-d2-c2-c1-d1_001.gif/330px-Reptyl_ouverture_e7...e3_Suite_d3-d2-c2-c1-d1_001.gif
 
 ----------
 
@@ -6725,6 +6975,16 @@ SR
 phénomène par lequel le noyau d'un atome lourd est divisé en plusieurs nucléides plus légers
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kernspaltung.gif/330px-Kernspaltung.gif
+
+----------
+
+Thrymr (lune)
+
+C
+
+satellite de Saturne
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Thrymr-discovery-CFHT.gif/330px-Thrymr-discovery-CFHT.gif
 
 ----------
 
@@ -7778,6 +8038,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Immortal_Game%2C_1851.
 
 ----------
 
+Météoroïde
+
+R
+
+petit corps du Système solaire
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Meteoroid_meteor_meteorite.gif/330px-Meteoroid_meteor_meteorite.gif
+
+----------
+
 Pipette à vin
 
 C
@@ -7858,6 +8128,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E5%94%90%E7%96%86%E5%
 
 ----------
 
+Dynastie Tang
+
+SR
+
+dynastie chinoise
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/%E5%94%90%E7%96%86%E5%8F%98%E8%BF%81.gif/330px-%E5%94%90%E7%96%86%E5%8F%98%E8%BF%81.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Carbone filamenteux
 
 C
@@ -7935,6 +8215,26 @@ SR
 image cachant l'illusion d'une scène en trois dimensions visible par divergence oculaire
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stereogram_Tut_Animated_Shark.gif/330px-Stereogram_Tut_Animated_Shark.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Ji (fleuve)
+
+C
+
+cours d'eau en Chine
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Yellow_River_course_changes.gif/330px-Yellow_River_course_changes.gif
+
+----------
+
+Glitch art
+
+PC
+
+esthétique artistique autour des erreurs numériques
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kodak_Moment_%282013%29_sample_animation.gif/330px-Kodak_Moment_%282013%29_sample_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -8188,6 +8488,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Biegeanimation_3D.gif/
 
 ----------
 
+Moteur à plat
+
+R
+
+type de moteur à pistons
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Box.gif/330px-Box.gif
+
+----------
+
 Muscle long extenseur des orteils
 
 R
@@ -8355,6 +8665,16 @@ C
 type de suture
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Squamosal_suture_-_animation01.gif/330px-Squamosal_suture_-_animation01.gif
+
+----------
+
+Onde stationnaire
+
+R
+
+phénomène ondulatoire
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Standing_wave_2.gif/330px-Standing_wave_2.gif
 
 ----------
 
@@ -9728,6 +10048,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Screw_propelled_vehicl
 
 ----------
 
+Trappe (hockey sur glace)
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ice_Hockey_Neutral_Zone_Trap.gif/330px-Ice_Hockey_Neutral_Zone_Trap.gif
+
+----------
+
 Vortex Bladeless
 
 C
@@ -9878,6 +10208,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dev.gif/330px-Dev.gif
 
 ----------
 
+Histoire des États-Unis
+
+SR
+
+étude et narration du passé des États-Unis
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/USA_Territorial_Growth_small.gif/330px-USA_Territorial_Growth_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Acétyltransférase d'acétyl-coenzyme A
 
 C
@@ -9958,6 +10298,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sigmoid_sulcus_of_temp
 
 ----------
 
+Structure wurtzite
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wurtzite-kassebaum.gif/330px-Wurtzite-kassebaum.gif
+
+----------
+
 Fosse iliaque interne
 
 C
@@ -9995,6 +10345,16 @@ C
 satellite de Jupiter
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Aitne-discovery-CFHT-annotated.gif/330px-Aitne-discovery-CFHT-annotated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+(614689) 2020 XL5
+
+C
+
+troyen de la Terre
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animation_of_2020_XL5%27s_orbit_-_rotating_frame.gif/330px-Animation_of_2020_XL5%27s_orbit_-_rotating_frame.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -10085,6 +10445,16 @@ R
 muscle fessier
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gluteus_medius_muscle_-_animation01.gif/330px-Gluteus_medius_muscle_-_animation01.gif
+
+----------
+
+Premier métatarsien
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Left_First_metatarsal_bone_animation01.gif/330px-Left_First_metatarsal_bone_animation01.gif
 
 ----------
 
@@ -10455,6 +10825,16 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Quantum_Zeno_effect_animation.gif/330px-Quantum_Zeno_effect_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+(3548) Eurybate
+
+C
+
+astéroïde troyen de Jupiter
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Eurybates-satellite-discovery.gif/330px-Eurybates-satellite-discovery.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -11108,6 +11488,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nadar_autoportrait_tou
 
 ----------
 
+Phonation
+
+PC
+
+production des phones ou sons propres à la langue parlée
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vocal_fold_animated.gif/330px-Vocal_fold_animated.gif
+
+----------
+
 Élévateur
 
 C
@@ -11505,6 +11895,16 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cerebellar_vermis_--_animation.gif/330px-Cerebellar_vermis_--_animation.gif
+
+----------
+
+Style 8 bits
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Crawl_Steam_branding_image_v2.gif/330px-Crawl_Steam_branding_image_v2.gif
 
 ----------
 
