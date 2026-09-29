@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Wiki-Masters GIF</title>
-<link rel="icon" type="image/png" href="logo2.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
 <style>
@@ -69,87 +68,33 @@
   .star svg { width:24px; height:24px; fill:rgba(255,255,255,.1); stroke:rgba(255,255,255,.9); stroke-width:1.6; stroke-linejoin:round; filter:drop-shadow(0 1px 3px rgba(0,0,0,.7)); }
   .star.on svg { fill:#facc15; stroke:#facc15; }
 
-  #more { display:block; margin:0 auto 40px; padding:12px 22px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
+  #pager { display:flex; align-items:center; justify-content:center; gap:14px; margin:0 0 40px; }
+  #pager button { padding:10px 18px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
+  #pager button:disabled { opacity:.3; cursor:default; }
+  #pager span { color:var(--dim); }
   #empty { text-align:center; color:var(--dim); padding:90px 20px; border:1px dashed var(--line); border-radius:18px; }
   mark { background:#facc1555; color:inherit; border-radius:3px; }
-
-/* Avertissement de contenu sensible */
-.safety-overlay {
-  position: fixed;
-  inset: 0;
-  z-index: 99999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 24px;
-  background: rgba(0,0,0,.92);
-  backdrop-filter: blur(8px);
-}
-.safety-box {
-  width: min(560px, 100%);
-  padding: 28px;
-  border-radius: 18px;
-  background: #171717;
-  color: #fff;
-  text-align: center;
-  box-shadow: 0 20px 70px rgba(0,0,0,.6);
-  border: 1px solid rgba(255,255,255,.12);
-}
-.safety-box h2 { margin: 0 0 12px; font-size: 26px; }
-.safety-box p { margin: 10px 0; line-height: 1.5; color: #ddd; }
-.safety-box .safety-close {
-  margin-top: 18px;
-  padding: 11px 18px;
-  border: 0;
-  border-radius: 10px;
-  cursor: pointer;
-  font-weight: 700;
-  background: #fff;
-  color: #111;
-}
-.safety-note {
-  font-size: 13px;
-  color: #aaa !important;
-}
-
 </style>
 </head>
 <body>
 
-<div id="safetyOverlay" class="safety-overlay" role="dialog" aria-modal="true" aria-labelledby="safetyTitle">
-  <div class="safety-box">
-    <h2 id="safetyTitle">⚠️ Avertissement ⚠️</h2>
-    <p>Certaines cartes peuvent contenir des images(GIF) sensibles ou choquantes.</p>
-    <p>Certaines images(GIF) peuvent présenter un caractère sexuel et sont réservées aux adultes.</p>
-    <p class="safety-note">Acceptez-vous de voir du contenu à caractère sexuel, sensibles ou choquantes?</p>
-    <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:18px;"><button class="safety-close" type="button" onclick="closeSafetyWarning()">J’accepte et j’ai 18 ans ou plus</button><button class="safety-close" type="button" onclick="leavePage()" style="background:#b91c1c;color:#fff;">Quitter la page</button></div>
-  </div>
-</div>
-
-
-
-<script>
-// Déjà accepté aujourd'hui : pas d'avertissement (il revient demain à minuit)
-(function () {
-  try {
-    const d = new Date();
-    const today = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
-    if (localStorage.getItem('safety-accepted-day') === today) {
-      const o = document.getElementById('safetyOverlay');
-      if (o) o.remove();
-    }
-  } catch (e) {}
-})();
+<!--
+  ================= COLLE TON TEXTE ICI =================
+  Colle tout ton texte (Nom / Rareté / Description / Lien, blocs séparés par ----------)
+  entre la balise ouvrante et la balise fermante ci-dessous, enregistre le fichier
+  puis recharge la page. Ne touche pas aux deux balises <script>.
+-->
+<script type="text/plain" id="embedded">
 </script>
 
 <div class="wrap">
   <header>
     <div class="brand">
-      <div class="logo">.GIF</div>
+      <div class="logo">GIF</div>
       <div>
         <div class="kicker">WIKI-MASTERS</div>
-        <h1>Liste des gif</h1>
-        <div class="sub">Update 29/09/26</div>
+        <h1>Collection GIF</h1>
+        <div class="sub">Toutes les cartes animées du jeu</div>
       </div>
     </div>
   </header>
@@ -166,19 +111,19 @@
   </div>
 
   <div id="grid"></div>
-  <div id="empty" hidden>Aucune carte pour le moment.<br>Ajoute tes cartes dans le fichier cartes.txt.</div>
-  <button id="more" hidden style="display: none;">Afficher plus</button>
+  <div id="empty" hidden>Aucune carte pour le moment.<br>Colle ton texte dans le code du fichier, dans le bloc « COLLE TON TEXTE ICI ».</div>
+  <div id="pager" hidden></div>
 </div>
 
 <script>
 const ORDER = ["L", "UR", "SR", "R", "PC", "C"];
-const PAGE = 60;
+const PAGE = 48;
 const STAR = '<svg viewBox="0 0 24 24"><path d="M12 2.5l2.9 6.1 6.6.8-4.9 4.6 1.3 6.6L12 17.3l-5.9 3.3 1.3-6.6L2.5 9.4l6.6-.8z"/></svg>';
 const $ = (id) => document.getElementById(id);
 const norm = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
 const rank = (r) => { const i = ORDER.indexOf(r); return i < 0 ? 99 : i; };
 
-let cards = [], filtered = [], shown = 0, favOnly = false;
+let cards = [], filtered = [], pageIdx = 0, favOnly = false;
 const activeR = new Set(ORDER);
 let favs = new Set();
 
@@ -219,7 +164,9 @@ function renderStats() {
   s.appendChild(t);
   const n = document.createElement("div");
   n.className = "note";
-  n.textContent = "★ Vos favoris sont enregistrés dans les cookies sur cet appareil uniquement. Si vous supprimez les cookies ou utilisez la navigation privée ou changez de navigateur ou d'appareil vos favoris seront perdus.";
+  n.textContent = "★ Vos favoris sont enregistrés dans les cookies (données du site) de votre navigateur, sur cet appareil uniquement. " +
+    "Si vous supprimez les cookies ou les données de navigation, utilisez la navigation privée ou changez de navigateur ou d'appareil, " +
+    "vos favoris seront perdus ou n'apparaîtront plus : ils ne sont pas sauvegardés en ligne.";
   s.appendChild(n);
 }
 
@@ -238,11 +185,10 @@ function apply() {
     list = list.filter((c) => favs.has(c.url)).concat(list.filter((c) => !favs.has(c.url)));
   }
   filtered = list;
-  $("grid").innerHTML = "";
-  shown = 0;
+  pageIdx = 0;
   $("empty").hidden = cards.length > 0;
   updateTotal();
-  more();
+  render();
 }
 
 function hl(el, text, words) {
@@ -257,10 +203,26 @@ function hl(el, text, words) {
 
 function saveFavs() { try { localStorage.setItem("galerie-favs", JSON.stringify([...favs])); } catch (e) {} }
 
-function more() {
+// Les images ne se chargent que lorsqu'elles sont proches de l'écran, et sont déchargées quand elles s'éloignent
+// (évite que des centaines de GIF animés tournent en même temps)
+const io = new IntersectionObserver((entries) => {
+  for (const e of entries) {
+    const img = e.target;
+    if (e.isIntersecting) {
+      if (!img.getAttribute("src")) img.src = img.dataset.src;
+    } else if (img.getAttribute("src")) {
+      img.removeAttribute("src");
+    }
+  }
+}, { rootMargin: "500px" });
+
+function render() {
+  io.disconnect();
+  const grid = $("grid");
+  grid.innerHTML = "";
   const words = $("q").value.trim().split(/\s+/).filter(Boolean);
   const frag = document.createDocumentFragment();
-  for (const c of filtered.slice(shown, shown + PAGE)) {
+  for (const c of filtered.slice(pageIdx * PAGE, (pageIdx + 1) * PAGE)) {
     const d = document.createElement("div");
     d.className = "card";
     d.style.setProperty("--c", ORDER.includes(c.rarity) ? `var(--${c.rarity})` : "#888");
@@ -268,9 +230,10 @@ function more() {
     const pic = document.createElement("div");
     pic.className = "pic";
     const img = document.createElement("img");
-    img.loading = "lazy"; img.referrerPolicy = "no-referrer"; img.alt = c.name; img.src = c.url;
+    img.referrerPolicy = "no-referrer"; img.alt = c.name; img.dataset.src = c.url;
     img.onclick = () => window.open(c.url, "_blank");
     pic.appendChild(img);
+    io.observe(img);
 
     const b = document.createElement("div");
     b.className = "badge"; b.textContent = c.rarity;
@@ -297,51 +260,42 @@ function more() {
     d.append(pic, b, st, info);
     frag.appendChild(d);
   }
-  $("grid").appendChild(frag);
-  shown = Math.min(shown + PAGE, filtered.length);
-  $("more").hidden = shown >= filtered.length;
+  grid.appendChild(frag);
+  renderPager();
 }
 
-$("more").onclick = more;
+function renderPager() {
+  const pages = Math.max(1, Math.ceil(filtered.length / PAGE));
+  const pg = $("pager");
+  pg.hidden = pages <= 1;
+  pg.innerHTML = "";
+  const prev = document.createElement("button");
+  prev.textContent = "← Précédent"; prev.disabled = pageIdx === 0;
+  prev.onclick = () => go(pageIdx - 1);
+  const label = document.createElement("span");
+  label.textContent = `Page ${pageIdx + 1} / ${pages}`;
+  const next = document.createElement("button");
+  next.textContent = "Suivant →"; next.disabled = pageIdx >= pages - 1;
+  next.onclick = () => go(pageIdx + 1);
+  pg.append(prev, label, next);
+}
+
+function go(i) {
+  pageIdx = i;
+  render();
+  window.scrollTo({ top: 0 });
+}
+
 $("sort").onchange = apply;
 $("favonly").onclick = () => { favOnly = !favOnly; $("favonly").classList.toggle("on", favOnly); apply(); };
 let t;
 $("q").oninput = () => { clearTimeout(t); t = setTimeout(apply, 150); };
-window.addEventListener("scroll", () => {
-  if (!$("more").hidden && innerHeight + scrollY > document.body.offsetHeight - 600) more();
-});
 
 // démarrage : texte du code + favoris sauvegardés
+cards = parse($("embedded").textContent);
 try { favs = new Set(JSON.parse(localStorage.getItem("galerie-favs") || "[]")); } catch (e) {}
 renderStats();
 apply();
-fetch("cartes.txt", { cache: "no-cache" })
-  .then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); })
-  .then((text) => {
-    cards = parse(text);
-    renderStats();
-    apply();
-  })
-  .catch(() => {
-    $("empty").hidden = false;
-    $("empty").innerHTML = "Impossible de charger <b>cartes.txt</b>.<br>Vérifie qu'il est dans le même dossier que index.html et que la page est ouverte via un serveur (GitHub Pages, etc.), pas en double-clic local.";
-  });
 </script>
-
-<script>
-function closeSafetyWarning() {
-  try {
-    const d = new Date();
-    const today = d.getFullYear() + '-' + String(d.getMonth() + 1).padStart(2, '0') + '-' + String(d.getDate()).padStart(2, '0');
-    localStorage.setItem('safety-accepted-day', today);
-  } catch (e) {}
-  const overlay = document.getElementById('safetyOverlay');
-  if (overlay) overlay.remove();
-}
-function leavePage() {
-  window.location.replace('about:blank');
-}
-</script>
-
 </body>
 </html>
