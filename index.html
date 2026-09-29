@@ -152,7 +152,7 @@
   </div>
 
   <div id="grid"></div>
-  <div id="empty" hidden>Aucune carte pour le moment.<br>Ajoute tes cartes dans le fichier cartes.html.</div>
+  <div id="empty" hidden>Aucune carte pour le moment.<br>Ajoute tes cartes dans le fichier cartes.txt.</div>
   <button id="more" hidden style="display: none;">Afficher plus</button>
 </div>
 
@@ -301,17 +301,16 @@ window.addEventListener("scroll", () => {
 try { favs = new Set(JSON.parse(localStorage.getItem("galerie-favs") || "[]")); } catch (e) {}
 renderStats();
 apply();
-fetch("cartes.html", { cache: "no-cache" })
+fetch("cartes.txt", { cache: "no-cache" })
   .then((r) => { if (!r.ok) throw new Error(r.status); return r.text(); })
-  .then((html) => {
-    const doc = new DOMParser().parseFromString(html, "text/html");
-    cards = parse(doc.getElementById("embedded").textContent);
+  .then((text) => {
+    cards = parse(text);
     renderStats();
     apply();
   })
   .catch(() => {
     $("empty").hidden = false;
-    $("empty").innerHTML = "Impossible de charger <b>cartes.html</b>.<br>Vérifie qu'il est dans le même dossier que index.html et que la page est ouverte via un serveur (GitHub Pages, etc.), pas en double-clic local.";
+    $("empty").innerHTML = "Impossible de charger <b>cartes.txt</b>.<br>Vérifie qu'il est dans le même dossier que index.html et que la page est ouverte via un serveur (GitHub Pages, etc.), pas en double-clic local.";
   });
 </script>
 
