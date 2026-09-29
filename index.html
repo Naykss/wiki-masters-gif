@@ -34,6 +34,7 @@
   .rar i { width:11px; height:11px; border-radius:4px; background:var(--c); box-shadow:0 0 8px var(--c); }
   .rar b { color:var(--txt); }
   #total { margin-left:auto; color:var(--dim); font-size:12px; }
+  .note { flex-basis:100%; margin:2px 0 0; padding-top:10px; border-top:1px solid #ffffff0d; font-size:11px; line-height:1.5; color:#5a5a64; }
 
   /* ---------- outils ---------- */
   .tools { display:flex; gap:10px; flex-wrap:wrap; margin-bottom:22px; }
@@ -70,17 +71,63 @@
   #more { display:block; margin:0 auto 40px; padding:12px 22px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
   #empty { text-align:center; color:var(--dim); padding:90px 20px; border:1px dashed var(--line); border-radius:18px; }
   mark { background:#facc1555; color:inherit; border-radius:3px; }
+
+/* Avertissement de contenu sensible */
+.safety-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: rgba(0,0,0,.92);
+  backdrop-filter: blur(8px);
+}
+.safety-box {
+  width: min(560px, 100%);
+  padding: 28px;
+  border-radius: 18px;
+  background: #171717;
+  color: #fff;
+  text-align: center;
+  box-shadow: 0 20px 70px rgba(0,0,0,.6);
+  border: 1px solid rgba(255,255,255,.12);
+}
+.safety-box h2 { margin: 0 0 12px; font-size: 26px; }
+.safety-box p { margin: 10px 0; line-height: 1.5; color: #ddd; }
+.safety-box .safety-close {
+  margin-top: 18px;
+  padding: 11px 18px;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 700;
+  background: #fff;
+  color: #111;
+}
+.safety-note {
+  font-size: 13px;
+  color: #aaa !important;
+}
+
 </style>
 </head>
 <body>
 
-<!--
-  ================= COLLE TON TEXTE ICI =================
-  Colle tout ton texte (Nom / Rareté / Description / Lien, blocs séparés par ----------)
-  entre la balise ouvrante et la balise fermante ci-dessous, enregistre le fichier
-  puis recharge la page. Ne touche pas aux deux balises <script>.
--->
+<div id="safetyOverlay" class="safety-overlay" role="dialog" aria-modal="true" aria-labelledby="safetyTitle">
+  <div class="safety-box">
+    <h2 id="safetyTitle">⚠️ Avertissement ⚠️</h2>
+    <p>Cette cartes peut contenir des images sensibles ou choquantes.</p>
+    <p>Certains contenus peuvent présenter un caractère sexuel et sont réservés aux adultes.</p>
+    <p class="safety-note">Acceptez-vous de voir du contenu à caractère sexuel?</p>
+    <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-top:18px;"><button class="safety-close" type="button" onclick="closeSafetyWarning()">J’accepte</button><button class="safety-close" type="button" onclick="leavePage()" style="background:#b91c1c;color:#fff;">Quitter la page</button></div>
+  </div>
+</div>
+
+
 <script type="text/plain" id="embedded">
+
 Matrix (film)
 
 UR
@@ -111,6 +158,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Northern_Lights_timelap
 
 ----------
 
+Liquide pré-éjaculatoire
+
+SR
+
+fluide corporel
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Animated_pre-ejaculate_of_human_male.gif/330px-Animated_pre-ejaculate_of_human_male.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Forêt Lyman-α
 
 C
@@ -118,6 +175,16 @@ C
 ensemble des raies d'absorption dans les spectres des galaxies et quasars lointains
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Lyman-alpha_forest.gif/330px-Lyman-alpha_forest.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Inhibiteur de la recapture de la dopamine et de la noradrénaline
+
+PC
+
+classe de médicaments antidépresseurs
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/M%C3%A9thylph%C3%A9nidate2.gif/330px-M%C3%A9thylph%C3%A9nidate2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -141,6 +208,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Republica_romana_animad
 
 ----------
 
+Icosaèdre
+
+SR
+
+polyèdre à 20 faces
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Icosahedron-rgb.gif/330px-Icosahedron-rgb.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Abo
 
 C
@@ -161,6 +238,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Nystagmus_eye_movement.
 
 ----------
 
+Électroéjaculation
+
+PC
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Estim_educational_contractions_and_ejaculation.gif/330px-Estim_educational_contractions_and_ejaculation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Saint-Empire romain germanique
 
 L
@@ -168,6 +255,16 @@ L
 regroupement politique de terres d’Europe occidentale et centrale, de 962 à 1806
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HRR.gif/330px-HRR.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Bas-Canada
+
+R
+
+colonie britannique
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%C3%89volution_territoriale_du_Bas-Canada.gif/330px-%C3%89volution_territoriale_du_Bas-Canada.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -231,6 +328,46 @@ https://upload.wikimedia.org/wikipedia/commons/0/07/Eclipsing_binary_star_animat
 
 ----------
 
+Histoire du radar
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/0/07/Radarops.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+En passant (échecs)
+
+SR
+
+Quand un pion est sur la cinquième rangée et que l’adversaire avance de deux cases un pion d’une colonne voisine, le premier pion peut prendre le second. Le joueur avance son pion en diagonale sur la sixième rangée et la colonne du pion adverse.
+
+https://upload.wikimedia.org/wikipedia/commons/0/09/Ajedrez_animaci%C3%B3n_en_passant.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Octaèdre régulier
+
+PC
+
+type de polyèdre
+
+https://upload.wikimedia.org/wikipedia/commons/1/14/Octahedron.gif
+
+----------
+
+Tétraèdre tronqué
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/1/1a/Truncatedtetrahedron.gif
+
+----------
+
 Isaac Beeckman
 
 PC
@@ -238,6 +375,36 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/1/1b/Vibration_corde_fondamentale_trois_longueurs_petit.gif
+
+----------
+
+Groupe (mathématiques)
+
+SR
+
+monoïde dont tout élément non nul admet un inverse pour la loi de composition interne
+
+https://upload.wikimedia.org/wikipedia/commons/1/1e/Bewegung_Zauberw%C3%BCrfel.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Algorithme Adam7
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/2/27/Adam7_passes.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Décomposition
+
+R
+
+processus de dégradation des êtres vivants
+
+https://upload.wikimedia.org/wikipedia/commons/2/27/DecayingPeachSmall.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -251,6 +418,26 @@ https://upload.wikimedia.org/wikipedia/commons/2/27/Human_alfa2beta2_hemoglobin.
 
 ----------
 
+Icositétraèdre pentagonal
+
+PC
+
+polyèdre formé de 24 pentagones irréguliers
+
+https://upload.wikimedia.org/wikipedia/commons/3/31/Pentagonalicositetrahedronccw.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Icosaèdre tronqué
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/3/31/Truncatedicosahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
 (9954) Brachiosaure
 
 C
@@ -258,6 +445,46 @@ C
 astéroïde de la ceinture principale d'astéroïdes
 
 https://upload.wikimedia.org/wikipedia/commons/4/42/AnimatedOrbitOf9954Brachiosaurus.gif
+
+----------
+
+ADN B
+
+PC
+
+forme a priori la plus courante de la double hélice d'ADN en conditions naturelles
+
+https://upload.wikimedia.org/wikipedia/commons/4/43/Bdna_cropped.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Tétraèdre de Reuleaux
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/4/44/ReuleauxTetrahedron_Animation.gif
+
+----------
+
+Décomposition chimique
+
+PC
+
+Réaction chimique
+
+https://upload.wikimedia.org/wikipedia/commons/4/4c/Chemical_decomposition.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Triakitétraèdre
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/5/50/Triakistetrahedron.gif
 
 ----------
 
@@ -281,6 +508,16 @@ https://upload.wikimedia.org/wikipedia/commons/5/55/8-cell-simple.gif
 
 ----------
 
+Tesseract
+
+SR
+
+analogue quadridimensionnel du cube
+
+https://upload.wikimedia.org/wikipedia/commons/5/55/Tesseract.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
 Macrocéphalie
 
 PC
@@ -288,6 +525,26 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/5/56/Parasagittal_MRI_of_human_head_in_patient_with_benign_familial_macrocephaly_prior_to_brain_injury_%28ANIMATED%29.gif
+
+----------
+
+Épanadiplose
+
+R
+
+Figure de style
+
+https://upload.wikimedia.org/wikipedia/commons/6/63/Zoopraxiscope_16485d.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Petit dodécaèdre étoilé
+
+PC
+
+solide de Kepler-Poinsot
+
+https://upload.wikimedia.org/wikipedia/commons/6/66/SmallStellatedDodecahedron.gif
 
 ----------
 
@@ -308,6 +565,26 @@ C
 processus de destruction des tissus biologiques par refroidissement extrême
 
 https://upload.wikimedia.org/wikipedia/commons/6/6b/Hepatic_cryoablation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Tétrakihexaèdre
+
+C
+
+cube avec des pyramides carrées couvrant chaque face
+
+https://upload.wikimedia.org/wikipedia/commons/6/6b/Tetrakishexahedron.gif
+
+----------
+
+Tétraèdre régulier
+
+R
+
+solide de Platon
+
+https://upload.wikimedia.org/wikipedia/commons/7/70/Tetrahedron.gif
 
 ----------
 
@@ -338,6 +615,56 @@ SR
 partie du système limbique du cerveau responsable des émotions et en particulier de la peur
 
 https://upload.wikimedia.org/wikipedia/commons/7/7a/Amygdala_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Dynamique des systèmes
+
+PC
+
+modélisation de systèmes complexes par des stocks, des flux et des boucles de rétroaction
+
+https://upload.wikimedia.org/wikipedia/commons/7/7c/Adoption_SFD_ANI_s.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+(38083) Rhadamanthe
+
+C
+
+objet transneptunien
+
+https://upload.wikimedia.org/wikipedia/commons/7/7c/AnimatedOrbitOf38083Rhadamanthus.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Octaèdre tronqué
+
+PC
+
+polyèdre possédant 8 faces hexagonales régulières, 6 faces carrées, 24 sommets identiques et 36 arêtes égales
+
+https://upload.wikimedia.org/wikipedia/commons/7/7c/Truncatedoctahedron.gif
+
+----------
+
+Bouton radio
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/8/80/Option-buttons2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Précession
+
+R
+
+changement graduel d'orientation de l'axe de rotation d'un objet
+
+https://upload.wikimedia.org/wikipedia/commons/8/82/Gyroscope_precession.gif
 
 ----------
 
@@ -391,6 +718,56 @@ https://upload.wikimedia.org/wikipedia/commons/a/a2/Rotating_grinder.gif
 
 ----------
 
+Adaptations cinématographiques du Seigneur des anneaux
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/a/a2/The_one_ring_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Cuboctaèdre tronqué
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/a/a9/Truncatedcuboctahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Dodécaèdre tronqué
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/a/a9/Truncateddodecahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Cuboctaèdre
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/a/ab/Cuboctahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Grand icosaèdre
+
+PC
+
+solide de Kepler-Poinsot
+
+https://upload.wikimedia.org/wikipedia/commons/a/ab/GreatIcosahedron.gif
+
+----------
+
 Karabo Poppy Moletsane
 
 C
@@ -398,6 +775,16 @@ C
 illustratrrice
 
 https://upload.wikimedia.org/wikipedia/commons/a/ac/Wikipedia20_animated_Fashion.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Triakioctaèdre
+
+C
+
+polyèdre convexe formé de 24 triangles isocèles
+
+https://upload.wikimedia.org/wikipedia/commons/b/b4/Triakisoctahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -411,6 +798,26 @@ https://upload.wikimedia.org/wikipedia/commons/b/b8/03_classical_greek_4_element
 
 ----------
 
+Pentakidodécaèdre
+
+PC
+
+dodécaèdre avec une pyramide pentagonale couvrant chaque face
+
+https://upload.wikimedia.org/wikipedia/commons/b/bc/Pentakisdodecahedron.gif
+
+----------
+
+Analyse transactionnelle
+
+SR
+
+théorie pseudoscientifique
+
+https://upload.wikimedia.org/wikipedia/commons/b/bc/TransactionalAnalysis.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
 Hexacontaèdre trapézoïdal
 
 C
@@ -418,6 +825,16 @@ C
 polyèdre composé de 60 faces en forme de cerfs-volants
 
 https://upload.wikimedia.org/wikipedia/commons/c/c2/Deltoidalhexecontahedron.gif
+
+----------
+
+Triaki-icosaèdre
+
+C
+
+polyèdre convexe formé de 60 triangles isocèles
+
+https://upload.wikimedia.org/wikipedia/commons/c/cb/Triakisicosahedron.gif
 
 ----------
 
@@ -451,6 +868,16 @@ https://upload.wikimedia.org/wikipedia/commons/d/d2/Pyramid_of_35_spheres_animat
 
 ----------
 
+Nombre tétraédrique
+
+PC
+
+nombre polyédrique
+
+https://upload.wikimedia.org/wikipedia/commons/d/d5/Pyramid_of_35_spheres_animation.gif
+
+----------
+
 Choral Public Domain Library
 
 R
@@ -458,6 +885,36 @@ R
 site collaboratif mettant à disposition des partitions
 
 https://upload.wikimedia.org/wikipedia/commons/d/da/CPDL_logo.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Résistance initiale d'une colle ou d'un adhésif
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/e/e2/Peeling_an_adhesive_small_angle_bubbles_topview.gif
+
+----------
+
+Cavitation dans les adhésifs
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/e/e2/Peeling_an_adhesive_small_angle_bubbles_topview.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Grand dodécaèdre étoilé
+
+PC
+
+solide de Kepler-Poinsot
+
+https://upload.wikimedia.org/wikipedia/commons/e/e5/GreatStellatedDodecahedron.gif
 
 ----------
 
@@ -541,6 +998,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Coracoid_process_of_le
 
 ----------
 
+Triacylglycérol-lipase
+
+C
+
+enzyme
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Candida_Antarctica_Lipase_B.gif/330px-Candida_Antarctica_Lipase_B.gif
+
+----------
+
 Trisectrice de Maclaurin
 
 C
@@ -581,6 +1048,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Metacarpal_bones_%28le
 
 ----------
 
+Éruption de tornades des 10 et 11 décembre 2021 aux États-Unis
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Satellite_loop_of_Tornado_Outbreak_of_Dec_10-11%2C_2021.gif/330px-Satellite_loop_of_Tornado_Outbreak_of_Dec_10-11%2C_2021.gif
+
+----------
+
 Céphéide
 
 R
@@ -598,6 +1075,16 @@ PC
 tablette compacte mais soluble se fragmentant au contact de l'eau sous l'effet du dégagement de CO2
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cachet_effervescent.gif/330px-Cachet_effervescent.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Cuisine du Yémen
+
+PC
+
+terme collectif pour les traditions culinaires au Yémen
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Saltah.gif/330px-Saltah.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -641,6 +1128,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Franks_expansion.gif/3
 
 ----------
 
+Muscle ischio-jambier
+
+SR
+
+muscle appartenant à un groupe de trois, à l'arrière de la cuisse, fléchissant le genou sur la cuisse, à l'antagonisme du quadriceps
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hamstrings.gif/330px-Hamstrings.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Instabilité électrothermique
 
 C
@@ -658,6 +1155,26 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/EpitrochoidIn1.gif/330px-EpitrochoidIn1.gif
+
+----------
+
+Hendécaèdre
+
+C
+
+polyèdre à 11 faces
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bisymmetric_Hendecahedron.gif/330px-Bisymmetric_Hendecahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Muscle quadriceps fémoral
+
+SR
+
+muscle de la cuisse
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Quadriceps_3D.gif/330px-Quadriceps_3D.gif
 
 ----------
 
@@ -691,6 +1208,26 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boucle_GOES8-1998-01_0
 
 ----------
 
+Conduction saltatoire
+
+PC
+
+transmission de l'influx nerveux par propagation de potentiels d'action le long d'un neurone
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Saltatory_Conduction.gif/330px-Saltatory_Conduction.gif
+
+----------
+
+Contact de Hertz
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hertz_contact_animated.gif/330px-Hertz_contact_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Deuxième métacarpien
 
 C
@@ -708,6 +1245,46 @@ PC
 ensemble de méthodes algorithmiques pour les systèmes de recommandation
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Collaborative_filtering.gif/330px-Collaborative_filtering.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Muscle court adducteur
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Adductor_brevis.gif/330px-Adductor_brevis.gif
+
+----------
+
+Muscle long adducteur
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adductor_longus.gif/330px-Adductor_longus.gif
+
+----------
+
+Système manivelle-cadre
+
+C
+
+sert à convertir le mouvement linéaire d'une règle coulissante en un mouvement rotatif, et vice-versa
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Scotch_yoke_animation.gif/330px-Scotch_yoke_animation.gif
+
+----------
+
+ADN environnemental
+
+PC
+
+ADN extrait de l'environnement
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/EDNA_gif_without_time.gif/330px-EDNA_gif_without_time.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -731,6 +1308,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ingenuity_Helicopter_R
 
 ----------
 
+FADD
+
+C
+
+gène de l'espèce Homo sapiens
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FADD_based_on_pdb_file_2GF5.gif/330px-FADD_based_on_pdb_file_2GF5.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Autostéréogramme
 
 SR
@@ -738,6 +1325,36 @@ SR
 image cachant l'illusion d'une scène en trois dimensions visible par divergence oculaire
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stereogram_Tut_Animated_Shark.gif/330px-Stereogram_Tut_Animated_Shark.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Évolution territoriale du Canada
+
+PC
+
+liste d'un projet Wikimedia
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Canada_provinces_evolution.gif/330px-Canada_provinces_evolution.gif
+
+----------
+
+Centre d'action (météorologie)
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Animation_Decembre_2009_MSLP_Z500.gif/330px-Animation_Decembre_2009_MSLP_Z500.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+The Upside-Downs of Little Lady Lovekins and Old Man Muffaroo
+
+C
+
+bande dessinée humoristique
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Verbeek-rocanoe.gif/330px-Verbeek-rocanoe.gif
 
 ----------
 
@@ -781,6 +1398,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Meteorite_explosion_ov
 
 ----------
 
+Danse du tigre
+
+C
+
+danse traditionnelle pratiquée dans plusieurs régions du monde, exécutée par une ou plusieurs personnes déguisées en tigres
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Animation_of_Tala_Pateri_%28palm_leaf_toy_tiger%29_dancing.gif/330px-Animation_of_Tala_Pateri_%28palm_leaf_toy_tiger%29_dancing.gif
+
+----------
+
 Muscle gracile
 
 R
@@ -808,6 +1435,26 @@ C
 satellite de Jupiter
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Megaclite-Jewitt-CFHT-annotated.gif/330px-Megaclite-Jewitt-CFHT-annotated.gif
+
+----------
+
+Muscle petit adducteur
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Adductor_minimus.gif/330px-Adductor_minimus.gif
+
+----------
+
+Bâtonnage (œnologie)
+
+PC
+
+l'action de remettre en suspension les lies
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Batonnage.gif/330px-Batonnage.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -841,6 +1488,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Haumea_Rotation.gif/33
 
 ----------
 
+Actionneur à chaîne rigide
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Rigid_Chain_Actuator.gif/330px-Rigid_Chain_Actuator.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Botvinnik-Capablanca, AVRO 1938
 
 C
@@ -848,6 +1505,16 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Botvinnik_versus_Capablanca%2C_AVRO_1938.gif/330px-Botvinnik_versus_Capablanca%2C_AVRO_1938.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Eukéladé
+
+C
+
+satellite de Jupiter
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Eukelade_s2003j1movie_arrow.gif/330px-Eukelade_s2003j1movie_arrow.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -921,6 +1588,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Coracobrachialis_muscl
 
 ----------
 
+Écho en crochet
+
+PC
+
+forme en crochet des échos radar d'une supercellule tornadique
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kansas_2003_tornado_radar.gif/330px-Kansas_2003_tornado_radar.gif
+
+----------
+
 Acétabulum
 
 R
@@ -951,6 +1628,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dev.gif/330px-Dev.gif
 
 ----------
 
+Synthèse sonore additive
+
+PC
+
+technique de synthèse sonore
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Synthesis_triangle.gif/330px-Synthesis_triangle.gif
+
+----------
+
 Vertèbre thoracique
 
 R
@@ -978,6 +1665,16 @@ UR
 apparence de la Lune au cours d'un cycle
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lunar_libration_with_phase2.gif/330px-Lunar_libration_with_phase2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Disque galactique
+
+PC
+
+région aplatie d’une galaxie à disque contenant notamment les bras spiraux, les étoiles, le gaz et les poussières
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/1kpc_Star_Map.gif/330px-1kpc_Star_Map.gif
 
 ----------
 
@@ -1031,6 +1728,26 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Third_metacarpal_bone_
 
 ----------
 
+Dynamique (mécanique)
+
+PC
+
+branche de la mécanique qui étudie les mouvements des corps sous l'action de forces et de moments en ses points
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TRUE_Procedural_Animation.gif/330px-TRUE_Procedural_Animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Générateur Stirling à radioisotope
+
+PC
+
+type de générateur électrique à énergie nucléaire
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Beta_stirling_animation.gif/330px-Beta_stirling_animation.gif
+
+----------
+
 Draconides
 
 PC
@@ -1081,6 +1798,36 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/World_ocean_map-fr.gif
 
 ----------
 
+Acuité de Vernier
+
+C
+
+mesure d'acuité visuelle
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Vernier-anim-03nov2008.gif/330px-Vernier-anim-03nov2008.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Hiatus adducteur
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Adductor_magnus.gif/330px-Adductor_magnus.gif
+
+----------
+
+Contraction des longueurs
+
+R
+
+contraction des longueurs dans la direction du mouvement
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Relativistic_wheels.gif/330px-Relativistic_wheels.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 GOOD Music
 
 PC
@@ -1088,16 +1835,17 @@ PC
 label discographique américain
 
 https://upload.wikimedia.org/wikipedia/fr/3/3c/GoodMusicGif.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+  
 </script>
 
 <div class="wrap">
   <header>
     <div class="brand">
-      <div class="logo">GIF</div>
+      <div class="logo">.GIF</div>
       <div>
         <div class="kicker">WIKI-MASTERS</div>
-        <h1>Collection GIF</h1>
-        <div class="sub">Toutes les cartes animées du jeu</div>
+        <h1>Liste des gif</h1>
+        <div class="sub">Update 29/09/26</div>
       </div>
     </div>
   </header>
@@ -1165,6 +1913,10 @@ function renderStats() {
   const t = document.createElement("div");
   t.id = "total";
   s.appendChild(t);
+  const n = document.createElement("div");
+  n.className = "note";
+  n.textContent = "★ Vos favoris sont enregistrés dans les cookies sur cet appareil uniquement. Si vous supprimez les cookies ou utilisez la navigation privée ou changez de navigateur ou d'appareil vos favoris seront perdus.";
+  s.appendChild(n);
 }
 
 function updateTotal() {
@@ -1261,5 +2013,16 @@ try { favs = new Set(JSON.parse(localStorage.getItem("galerie-favs") || "[]")); 
 renderStats();
 apply();
 </script>
+
+<script>
+function closeSafetyWarning() {
+  const overlay = document.getElementById('safetyOverlay');
+  if (overlay) overlay.remove();
+}
+function leavePage() {
+  window.location.replace('about:blank');
+}
+</script>
+
 </body>
 </html>
