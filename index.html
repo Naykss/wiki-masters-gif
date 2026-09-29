@@ -202,17 +202,17 @@ let favs = new Set();
 
 function parse(text) {
   const out = [], seen = new Set();
-  let batch = 0, idx = 0;
-  text = text.replace(/^[ \t]*####.*$/gm, (m) => "\n----------\n" + m.trim() + "\n----------\n");
-  for (let block of text.split(/^[ \t]*-{5,}[ \t]*$/m)) {
-    // ligne "#### date" = début d'un nouveau lot d'ajouts
-    let m;
-    while ((m = block.match(/^\s*####[^\n]*(\n|$)/))) { batch++; block = block.slice(m[0].length); }
-    const parts = block.trim().split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
-    if (parts.length < 2) continue;
-    const url = parts[parts.length - 1];
+  let idx = 0, newFrom = null;
+  // séparateur "----------" ; s'il finit par # ("----------#"), tout ce qui est en dessous est NEW
+  const parts = text.split(/^[ \t]*-{5,}[ \t]*(#?)[ \t]*$/m);
+  for (let n = 0; n < parts.length; n += 2) {
+    if (n > 0 && parts[n - 1] === "#") newFrom = idx;
+    const block = parts[n];
+    const ps = block.trim().split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
+    if (ps.length < 2) continue;
+    const url = ps[ps.length - 1];
     if (!/^https?:\/\//i.test(url)) continue;
-    const rest = parts.slice(0, -1);
+    const rest = ps.slice(0, -1);
     const name = rest.shift();
     let rarity = "?";
     if (rest.length && /^(L|UR|SR|R|PC|C)$/.test(rest[0])) rarity = rest.shift();
@@ -220,10 +220,9 @@ function parse(text) {
     const k = name + "|" + url;
     if (seen.has(k)) continue;
     seen.add(k);
-    out.push({ name, rarity, desc, url, key: norm(name + " " + desc), batch, idx: idx++ });
+    out.push({ name, rarity, desc, url, key: norm(name + " " + desc), idx: idx++ });
   }
-  const last = out.reduce((mx, c) => Math.max(mx, c.batch), 0);
-  for (const c of out) c.isNew = last > 0 && c.batch === last;
+  for (const c of out) c.isNew = newFrom !== null && c.idx >= newFrom;
   return out.sort((a, b) => rank(a.rarity) - rank(b.rarity)); // L → UR → SR → R → PC → C
 }
 
@@ -281,7 +280,7 @@ function apply() {
     (!favOnly || favs.has(c.url)) &&
     words.every((w) => c.key.includes(w)));
   if ($("sort").value === "recent") {
-    list = list.slice().sort((a, b) => b.batch - a.batch || b.idx - a.idx);
+    list = list.slice().sort((a, b) => b.idx - a.idx);
   }
   if ($("sort").value === "fav") {
     list = list.filter((c) => favs.has(c.url)).concat(list.filter((c) => !favs.has(c.url)));
