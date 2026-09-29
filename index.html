@@ -57,6 +57,12 @@
   .pic img { width:100%; height:100%; object-fit:cover; display:block; cursor:pointer; }
   .pic::after { content:""; position:absolute; inset:auto 0 0 0; height:40%; background:linear-gradient(transparent, rgba(0,0,0,.55)); pointer-events:none; }
   .badge { position:absolute; top:8px; left:8px; z-index:2; padding:2px 9px; border-radius:7px; font:800 12px var(--head); color:#0d1117; background:var(--c); box-shadow:0 0 10px var(--c); }
+  .new { position:absolute; top:36px; left:0; z-index:2; padding:2px 7px 2px 5px; border-radius:0 6px 6px 0; font:800 10px var(--head); letter-spacing:.08em; color:#04211a; background:#34d399; animation:newglow 2s ease-in-out infinite; }
+  @keyframes newglow { 0%,100% { box-shadow:0 0 4px #34d39988; } 50% { box-shadow:0 0 12px #34d399, 0 0 3px #34d399; } }
+  .name { cursor:copy; }
+  .name:hover { color:var(--c); }
+  #toast { position:fixed; left:50%; bottom:28px; transform:translate(-50%,20px); z-index:9999; padding:9px 16px; border-radius:10px; background:#111827; border:1px solid var(--line); color:#fff; font:600 13px var(--head); opacity:0; pointer-events:none; transition:opacity .2s, transform .2s; }
+  #toast.on { opacity:1; transform:translate(-50%,0); }
   .info { flex:1; min-height:0; padding:10px 12px 12px; display:flex; flex-direction:column; }
   .name { font:700 13px/1.2 var(--head); margin:0 0 5px; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; color:#fff; }
   .desc { margin:0; font-size:11px; line-height:1.35; color:#b4b4bd; display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; }
@@ -161,12 +167,14 @@
     <select id="sort" title="Trier">
       <option value="rarity">Tri : rareté (L → C)</option>
       <option value="fav">Tri : favoris d'abord</option>
+      <option value="recent">Tri : plus récents</option>
     </select>
     <button id="favonly" title="Afficher seulement les favoris">★ Favoris</button>
   </div>
 
   <div id="grid"></div>
   <div id="empty" hidden>Aucune carte pour le moment.<br>Ajoute tes cartes dans le fichier cartes.txt.</div>
+  <div id="toast"></div>
   <button id="more" hidden style="display: none;">Afficher plus</button>
 </div>
 
@@ -194,7 +202,12 @@ let favs = new Set();
 
 function parse(text) {
   const out = [], seen = new Set();
-  for (const block of text.split(/\n\s*-{5,}\s*\n/)) {
+  let batch = 0, idx = 0;
+  text = text.replace(/^[ \t]*####.*$/gm, (m) => "\n----------\n" + m.trim() + "\n----------\n");
+  for (let block of text.split(/^[ \t]*-{5,}[ \t]*$/m)) {
+    // ligne "#### date" = début d'un nouveau lot d'ajouts
+    let m;
+    while ((m = block.match(/^\s*####[^\n]*(\n|$)/))) { batch++; block = block.slice(m[0].length); }
     const parts = block.trim().split(/\n\s*\n/).map((p) => p.trim()).filter(Boolean);
     if (parts.length < 2) continue;
     const url = parts[parts.length - 1];
@@ -207,9 +220,32 @@ function parse(text) {
     const k = name + "|" + url;
     if (seen.has(k)) continue;
     seen.add(k);
-    out.push({ name, rarity, desc, url, key: norm(name + " " + desc) });
+    out.push({ name, rarity, desc, url, key: norm(name + " " + desc), batch, idx: idx++ });
   }
+  const last = out.reduce((mx, c) => Math.max(mx, c.batch), 0);
+  for (const c of out) c.isNew = last > 0 && c.batch === last;
   return out.sort((a, b) => rank(a.rarity) - rank(b.rarity)); // L → UR → SR → R → PC → C
+}
+
+function copyText(txt) {
+  const done = () => toast("Copié : " + txt);
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(txt).then(done, () => fallbackCopy(txt, done));
+  } else fallbackCopy(txt, done);
+}
+function fallbackCopy(txt, done) {
+  const ta = document.createElement("textarea");
+  ta.value = txt; ta.style.position = "fixed"; ta.style.opacity = "0";
+  document.body.appendChild(ta); ta.select();
+  try { document.execCommand("copy"); done(); } catch (e) {}
+  ta.remove();
+}
+let toastT;
+function toast(msg) {
+  const t = $("toast");
+  t.textContent = msg; t.classList.add("on");
+  clearTimeout(toastT);
+  toastT = setTimeout(() => t.classList.remove("on"), 1400);
 }
 
 function renderStats() {
@@ -244,6 +280,9 @@ function apply() {
     (c.rarity === "?" || activeR.has(c.rarity)) &&
     (!favOnly || favs.has(c.url)) &&
     words.every((w) => c.key.includes(w)));
+  if ($("sort").value === "recent") {
+    list = list.slice().sort((a, b) => b.batch - a.batch || b.idx - a.idx);
+  }
   if ($("sort").value === "fav") {
     list = list.filter((c) => favs.has(c.url)).concat(list.filter((c) => !favs.has(c.url)));
   }
@@ -301,11 +340,14 @@ function more() {
     const info = document.createElement("div");
     info.className = "info";
     const n = document.createElement("h3"); n.className = "name"; hl(n, c.name, words);
+    n.title = "Cliquer pour copier le nom";
+    n.onclick = () => copyText(c.name);
     const p = document.createElement("p"); p.className = "desc"; hl(p, c.desc, words);
     const f = document.createElement("div"); f.className = "foot"; f.textContent = "GIF · " + c.rarity;
     info.append(n, p, f);
 
     d.append(pic, b, st, info);
+    if (c.isNew) { const nw = document.createElement("div"); nw.className = "new"; nw.textContent = "NEW"; d.appendChild(nw); }
     frag.appendChild(d);
   }
   $("grid").appendChild(frag);
