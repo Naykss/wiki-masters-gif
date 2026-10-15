@@ -43,6 +43,8 @@
   #q:focus, select:focus { outline:2px solid #2fbf8f66; }
   select { padding:12px; border-radius:12px; border:1px solid var(--line); background:var(--panel); color:var(--txt); font-size:14px; }
   #favonly { padding:12px 16px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
+  #copyall, #copyfavs { padding:12px 16px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
+  #copyall:hover, #copyfavs:hover { border-color:#facc15; }
   #favonly.on { background:#facc15; border-color:#facc15; color:#3a2f00; }
 
   /* ---------- cartes ---------- */
@@ -161,7 +163,7 @@
       <div>
         <div class="kicker">WIKI-MASTERS</div>
         <h1>Liste des gif</h1>
-        <div class="sub">Update 30/09/26</div>
+        <div class="sub">Update 29/09/26</div>
       </div>
     </div>
   </header>
@@ -176,6 +178,8 @@
       <option value="recent">Tri : plus récents</option>
     </select>
     <button id="favonly" title="Afficher seulement les favoris">★ Favoris</button>
+    <button id="copyall" title="Copier le nom de toutes les cartes (un par ligne)">Copier tous les noms</button>
+    <button id="copyfavs" title="Copier le nom des cartes en favori (un par ligne)">Copier les noms favoris</button>
   </div>
 
   <div id="grid"></div>
@@ -364,6 +368,16 @@ function more() {
 
 $("more").onclick = more;
 $("sort").onchange = apply;
+function copyNames(list, label) {
+  if (!list.length) { toast("Aucun nom à copier"); return; }
+  const txt = list.map((c) => c.name).join("\n");
+  const done = () => toast(list.length + " noms copiés" + label);
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(txt).then(done, () => fallbackCopy(txt, done));
+  } else fallbackCopy(txt, done);
+}
+$("copyall").onclick = () => copyNames(cards, "");
+$("copyfavs").onclick = () => copyNames(cards.filter((c) => favs.has(c.url)), " (favoris)");
 $("favonly").onclick = () => { favOnly = !favOnly; $("favonly").classList.toggle("on", favOnly); apply(); };
 let t;
 $("q").oninput = () => { clearTimeout(t); t = setTimeout(apply, 150); };
