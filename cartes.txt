@@ -1,3 +1,33 @@
+Processus coracoïde
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Coracoid_process_of_left_scapula_-_animation01.gif/330px-Coracoid_process_of_left_scapula_-_animation01.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Dessin animé
+
+SR
+
+film fait à partir de dessins
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Sasha_test.gif/330px-Sasha_test.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Coefficient de Poisson
+
+SR
+
+Constante élastique
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Poissons_Ratio_animation.gif/330px-Poissons_Ratio_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 (3122) Florence
 
 C
@@ -48,6 +78,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Digital_rain_animation_
 
 ----------
 
+Poire (caricature)
+
+R
+
+caricature de Louis-Philippe Ier dessinée en 1831
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Les_Poires_anim%C3%A9es.gif/330px-Les_Poires_anim%C3%A9es.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Radius (os)
 
 R
@@ -55,6 +95,16 @@ R
 os de l'avant-bras
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Radius_-_animation2.gif/330px-Radius_-_animation2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+AutoCAD
+
+SR
+
+logiciel de dessin assisté par ordinateur
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/AutoCAD_sample_3D.gif/330px-AutoCAD_sample_3D.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -68,19 +118,39 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Field_lines.gif/330px-F
 
 ----------
 
-Empire du Milieu
+Moteur brownien
+
+C
+
+Machine à l’échelle nanoscopique
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Kinesin_walking.gif/330px-Kinesin_walking.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Complétion du carré
 
 R
 
-nom donné à la Chine
 
-https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Zhongguo.gif/330px-Zhongguo.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Completing_the_square.gif/330px-Completing_the_square.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Fosse crânienne moyenne
+
+PC
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Middle_cranial_fossa_-_animation.gif/330px-Middle_cranial_fossa_-_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
 Astérisme
 
-SR
+R
 
 figure remarquable dessinée par des étoiles particulièrement brillantes
 
@@ -118,6 +188,46 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Latissimus_dorsi_muscle
 
 ----------
 
+Globe terrestre
+
+SR
+
+représentation réduite et en trois dimensions, de la Terre
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/330px-Rotating_earth_%28large%29.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+2020 en astronomie
+
+C
+
+synthèse d'événements
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/OSIRIS-REX_SamCam_TAGSAM_Event_2020-10-20_small.gif/330px-OSIRIS-REX_SamCam_TAGSAM_Event_2020-10-20_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Processus condylien de la mandibule
+
+PC
+
+partie du corps humain située dans le crâne
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Condyloid_process_-_close-up_-_animation2.gif/330px-Condyloid_process_-_close-up_-_animation2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Muscle iliaque
+
+PC
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Iliacus_muscle_-_animation05.gif/330px-Iliacus_muscle_-_animation05.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Guerres puniques
 
 SR
@@ -125,6 +235,16 @@ SR
 ensemble de guerres opposant la république romaine à l'empire carthaginois
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Domain_changes_during_the_Punic_Wars.gif/330px-Domain_changes_during_the_Punic_Wars.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Histoire éruptive du piton de la Fournaise
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Piton_Fournaise_eruptions_animated-fr.gif/330px-Piton_Fournaise_eruptions_animated-fr.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -158,6 +278,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Google_Street_View_time
 
 ----------
 
+Optimisation par essaims particulaires
+
+PC
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/PSO-GIF.gif/330px-PSO-GIF.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Protocole de communication
 
 R
@@ -170,9 +300,9 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Torrentcomp_small.gif/3
 
 Déclin de l’Empire byzantin
 
-PC
+C
 
-chute progressive de l’Empire byzantin
+
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Byzantine_Empire_animated.gif/330px-Byzantine_Empire_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
@@ -198,9 +328,49 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Visualization_of_Thomps
 
 ----------
 
-Liquide pré-éjaculatoire
+Ambigramme
 
 SR
+
+type de tracé calligraphique ou typographique ayant plusieurs interprétations possibles
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ambigramme_du_mot_Ambigramme_-_noir_sur_fond_blanc_anim%C3%A9.gif/330px-Ambigramme_du_mot_Ambigramme_-_noir_sur_fond_blanc_anim%C3%A9.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Verglas massif de janvier 1998 dans le Nord-Est de l'Amérique du Nord
+
+R
+
+période de janvier 1998 où une série de perturbations météorologiques donnèrent de la pluie verglaçante dans le nord-est de l'Amérique du Nord
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Boucle_GOES8-1998-01_07-09.gif/330px-Boucle_GOES8-1998-01_07-09.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Décolonisation de l'Afrique
+
+R
+
+retrait des puissances coloniales de l'Afrique après la Seconde Guerre mondiale
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/African_nations_order_of_independence_1950-1993.gif/330px-African_nations_order_of_independence_1950-1993.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Cake-walk
+
+R
+
+genre de musique et type de danse
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Cake_walk_1903%2C_10_seconds.gif/330px-Cake_walk_1903%2C_10_seconds.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Liquide pré-éjaculatoire
+
+UR
 
 fluide corporel
 
@@ -218,6 +388,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Prince-william-invitati
 
 ----------
 
+Transformation de Fourier
+
+SR
+
+extension du développement en série de Fourier
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Fourier_transform_time_and_frequency_domains.gif/330px-Fourier_transform_time_and_frequency_domains.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Climat du Chili
 
 PC
@@ -230,7 +410,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Cono-sur-anual-sat.gif/
 
 Problème des mariages stables
 
-PC
+R
 
 
 
@@ -268,6 +448,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Gears4.gif/330px-Gears4
 
 ----------
 
+Algorithme KL-UCB
+
+C
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/UCB2FR.gif/330px-UCB2FR.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 2024 RW1
 
 PC
@@ -275,6 +465,16 @@ PC
 petit astéroïde s'étant écrasé sur Terre en septembre 2024
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2024_RW1_Discovery_Images.gif/330px-2024_RW1_Discovery_Images.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Muscle long adducteur
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Adductor_longus.gif/330px-Adductor_longus.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -338,6 +538,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Republica_romana_animad
 
 ----------
 
+Siège de Rome (République romaine)
+
+C
+
+légende
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Si%C3%A8ge_de_Porsenna.GIF/330px-Si%C3%A8ge_de_Porsenna.GIF?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Cycloïde
 
 R
@@ -358,6 +568,36 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Icosahedron-rgb.gif/330
 
 ----------
 
+Système binaire (astronomie)
+
+PC
+
+système astronomique regroupant deux objets de l'espace
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Pluto-Charon_System.gif/330px-Pluto-Charon_System.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+.bat
+
+R
+
+extension de nom de fichier
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Endlosschleife_durch_Batchdatei_%28Windows_8.1%29.webp/330px-Endlosschleife_durch_Batchdatei_%28Windows_8.1%29.webp?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Os courts
+
+PC
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Short_bones_-_animation.gif/330px-Short_bones_-_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Histoire des chemins de fer français
 
 SR
@@ -365,6 +605,16 @@ SR
 aspect de l'histoire
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Railway_map_of_France_-_animated_-_fr_-_small.gif/330px-Railway_map_of_France_-_animated_-_fr_-_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+The Upside-Downs of Little Lady Lovekins and Old Man Muffaroo
+
+C
+
+bande dessinée humoristique
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Verbeek-rocanoe.gif/330px-Verbeek-rocanoe.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -378,11 +628,11 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Vietnam_railway_progres
 
 ----------
 
-Abo
+Algorithme de Bellman-Ford
 
-C
+R
 
-page d'homonymie de Wikimédia
+calcul des plus courts chemins depuis un sommet source donné dans un graphe orienté pondéré
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Bellman%E2%80%93Ford_algorithm_example.gif/330px-Bellman%E2%80%93Ford_algorithm_example.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
@@ -418,6 +668,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Fire_looped_2.gif/330px
 
 ----------
 
+Entrée atmosphérique des météoroïdes
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Meteorite_explosion_over_Chelyabinsk_on_February_15%2C_2013.gif/330px-Meteorite_explosion_over_Chelyabinsk_on_February_15%2C_2013.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Histoire du Vietnam
 
 SR
@@ -425,6 +685,16 @@ SR
 étude et narration du passé du Viêt Nam
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Territorial_expansion_of_Vietnam_from_L%C3%BD_dynasty_to_Nguy%E1%BB%85n_dynasty_%281009%E2%80%931834%29.gif/330px-Territorial_expansion_of_Vietnam_from_L%C3%BD_dynasty_to_Nguy%E1%BB%85n_dynasty_%281009%E2%80%931834%29.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+PrimeGrid
+
+C
+
+logiciel informatique
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Primegrid.gif/330px-Primegrid.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -470,7 +740,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Left_Calcaneus_animatio
 
 Frein de vélo
 
-R
+PC
 
 
 
@@ -488,6 +758,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dimensions_personnalis%
 
 ----------
 
+Corps calleux
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Corpus_callosum.gif/330px-Corpus_callosum.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Claque
 
 PC
@@ -498,9 +778,29 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Hirateuchi_slapping_8jo
 
 ----------
 
+(524522) Zoozve
+
+PC
+
+astéroïde
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/524522_Zoozve_rotating_frame_planets.gif/330px-524522_Zoozve_rotating_frame_planets.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+2018 en astronomie
+
+PC
+
+événement astronomique liés à l'année 2018
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif/330px-Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Salut controversé d'Elon Musk
 
-R
+SR
 
 controverse impliquant Elon Musk
 
@@ -510,7 +810,7 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Elon_Musk%27s_Salute_at
 
 Électroéjaculation
 
-PC
+R
 
 
 
@@ -528,6 +828,26 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/32809140-nuclear-4235.g
 
 ----------
 
+Chanson illustrée
+
+C
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Little_Old_Log_Cabin_Illustrated_Song.gif/330px-Little_Old_Log_Cabin_Illustrated_Song.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Guerre du volume
+
+PC
+
+augmentation du volume sonore par l'industrie du disque
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Cd_loudness_trend-something.gif/330px-Cd_loudness_trend-something.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Histoire de la langue catalane
 
 R
@@ -535,6 +855,16 @@ R
 histoire du catalan
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Linguistic_map_Southwestern_Europe-en.gif/330px-Linguistic_map_Southwestern_Europe-en.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Déclin démographique des Blancs
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/White_America_%28of_one_race%29_from_1960_to_2020.gif/330px-White_America_%28of_one_race%29_from_1960_to_2020.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -578,6 +908,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Yokohama4MaidsChrysanth
 
 ----------
 
+Animation limitée
+
+PC
+
+technique de dessin animé
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/YukiClip2A.gif/330px-YukiClip2A.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Assassinat ciblé de Mohammed Deïf
 
 PC
@@ -585,16 +925,6 @@ PC
 opération d'élimination militaire
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Targetted-Killing-of-Muhammad-Deif.gif/330px-Targetted-Killing-of-Muhammad-Deif.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Chronologie de l'Union européenne
-
-R
-
-principales dates de l'Union Européenne
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/EC-EU-enlargement_animation.gif/330px-EC-EU-enlargement_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -608,13 +938,23 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/E.LISTE1.gif/330px-E.LI
 
 ----------
 
-Chronologie de l'invasion de l'Ukraine par la Russie (août 2022)
+Premier métatarsien
 
-C
+PC
 
 
 
-https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Left_First_metatarsal_bone_animation01.gif/330px-Left_First_metatarsal_bone_animation01.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Nouvelle lune
+
+SR
+
+phase lunaire où aucune partie de la Lune visible depuis la Terre n’est éclairée par le Soleil et où le disque observable de jour sur Terre est entièrement plongé dans la nuit lunaire et donc très peu visible (sauf en cas d’éclipse solaire)
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lunar_libration_with_phase2.gif/330px-Lunar_libration_with_phase2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -625,6 +965,16 @@ L
 regroupement politique de terres d’Europe occidentale et centrale, de 962 à 1806
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/HRR.gif/330px-HRR.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Élargissement de l'OTAN
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Map_of_NATO_chronological.gif/330px-Map_of_NATO_chronological.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -655,6 +1005,16 @@ C
 
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Carbon_Cycle-animated_forest.gif/330px-Carbon_Cycle-animated_forest.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Inondations du golfe Persique en 2024
+
+C
+
+inondations en avril 2024 à travers la golfe Persique
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/2024_Persian_Gulf_floods_precipitation.gif/330px-2024_Persian_Gulf_floods_precipitation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -708,6 +1068,16 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/%C3%89volution_territor
 
 ----------
 
+Algorithme IMED
+
+C
+
+algorithme de résolution du problème du bandit manchot
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/RunIMEDFR.gif/330px-RunIMEDFR.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Jeu de coloration de graphe
 
 C
@@ -758,6 +1128,26 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/NURBS_3-D_surface.gif/3
 
 ----------
 
+Royaume de Galice
+
+R
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Galiciamaptimes.gif/330px-Galiciamaptimes.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Autoportrait photographique
+
+PC
+
+genre photographique
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nadar_autoportrait_tournant.gif/330px-Nadar_autoportrait_tournant.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Muscle intercostal externe
 
 PC
@@ -775,6 +1165,16 @@ UR
 boisson alcoolique, eau-de-vie fabriquée par distillation de céréales maltées ou non maltées
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Whiskey-glass.gif/330px-Whiskey-glass.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Effet Magnus
+
+SR
+
+phénomène aérodynamique de déviation d'un objet en rotation
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Magnus-anim-canette.gif/330px-Magnus-anim-canette.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -808,13 +1208,23 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/CAD_Modeling.gif/330px-
 
 ----------
 
-Chronologie de l'invasion de l'Ukraine par la Russie (mars 2022)
+Chronologie de l'invasion de l'Ukraine par la Russie
+
+SR
+
+chronologie d'un événement militaire
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Deuxième métatarsien
 
 PC
 
 
 
-https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Left_Second_metatarsal_bone_animation02.gif/330px-Left_Second_metatarsal_bone_animation02.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -825,6 +1235,26 @@ UR
 très grande masse de terre émergée
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Systemes_de_continents.gif/330px-Systemes_de_continents.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Océan
+
+UR
+
+vaste étendue d'eau salée
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/World_ocean_map-fr.gif/330px-World_ocean_map-fr.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Minute (temps)
+
+R
+
+unité de temps
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/1_Munite_Clock.gif/330px-1_Munite_Clock.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -840,11 +1270,21 @@ https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Cerebellum.gif/330px-Ce
 
 Calendrier martien
 
-PC
+R
 
 
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Mars_360_animation.gif/330px-Mars_360_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Dynamique des gaz raréfiés
+
+C
+
+branche de la mécanique des fluides
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Particle_Simulation_Over_a_Flat_Plate.gif/330px-Particle_Simulation_Over_a_Flat_Plate.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -855,6 +1295,16 @@ C
 
 
 https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Parc_combustible_charbon.gif/330px-Parc_combustible_charbon.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+(4) Vesta
+
+R
+
+asteroïde de la ceinture principale
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Vesta_Rotation.gif/330px-Vesta_Rotation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -924,7 +1374,7 @@ SR
 
 théorème d'analyse
 
-https://upload.wikimedia.org/wikipedia/commons/0/02/Taylor_approximation_of_natural_logarithm.gif
+https://upload.wikimedia.org/wikipedia/commons/0/02/Taylor_approximation_of_natural_logarithm.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -940,7 +1390,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/03/Chain.gif?utm_source=fr.wiki
 
 Machine synchrone
 
-R
+SR
 
 
 
@@ -1028,13 +1478,13 @@ https://upload.wikimedia.org/wikipedia/commons/0/06/Pentagonalhexecontahedroncw.
 
 ----------
 
-Étoile variable de type Algol
+Radical 128
 
-PC
+C
 
-classe d'étoiles binaires à éclipses
+radical de l'écriture traditionnelle chinoise
 
-https://upload.wikimedia.org/wikipedia/commons/0/07/Eclipsing_binary_star_animation_2.gif
+https://upload.wikimedia.org/wikipedia/commons/0/07/%E8%80%B3-order.gif
 
 ----------
 
@@ -1058,16 +1508,6 @@ https://upload.wikimedia.org/wikipedia/commons/0/07/Radarops.gif
 
 ----------
 
-Histoire du radar
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/0/07/Radarops.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
 Muscle occipital
 
 C
@@ -1088,13 +1528,13 @@ https://upload.wikimedia.org/wikipedia/commons/0/09/Ajedrez_animaci%C3%B3n_en_pa
 
 ----------
 
-Os coxal
+Radical 100
 
-SR
+C
 
-os du bassin
+radical de l'écriture traditionnelle chinoise
 
-https://upload.wikimedia.org/wikipedia/commons/0/09/Hip_bone_animation3.gif
+https://upload.wikimedia.org/wikipedia/commons/0/0a/%E7%94%9F-order.gif
 
 ----------
 
@@ -1110,7 +1550,7 @@ https://upload.wikimedia.org/wikipedia/commons/0/0a/CrowdingDemo.gif?utm_source=
 
 Day & Night
 
-C
+PC
 
 
 
@@ -1168,33 +1608,23 @@ https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif
 
 ----------
 
+Moteur à disque en nutation
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/0/0f/Dakeyne_disc_engine_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
 Nombre pentatopique
 
 C
 
 nombre figuré
 
-https://upload.wikimedia.org/wikipedia/commons/0/0f/Pentatope_of_70_spheres_animation.gif
-
-----------
-
-Manic Miner
-
-C
-
-jeu vidéo de 1983
-
-https://upload.wikimedia.org/wikipedia/commons/1/10/ManicMinerLoadingScreen.gif
-
-----------
-
-Javier del Río Alba
-
-C
-
-archevêque péruvien
-
-https://upload.wikimedia.org/wikipedia/commons/1/10/Mons.gif
+https://upload.wikimedia.org/wikipedia/commons/0/0f/Pentatope_of_70_spheres_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -1228,13 +1658,33 @@ https://upload.wikimedia.org/wikipedia/commons/1/11/Cassini-huygens_anim.gif?utm
 
 ----------
 
+Radical 57
+
+C
+
+radical de l'écriture traditionnelle chinoise
+
+https://upload.wikimedia.org/wikipedia/commons/1/12/%E5%BC%93-order.gif
+
+----------
+
 Sphère céleste
 
-R
+SR
 
 sphère imaginaire de rayon quelconque et dont le centre est occupé par la Terre ou l'observateur
 
 https://upload.wikimedia.org/wikipedia/commons/1/12/Earth_within_celestial_sphere.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Radical 55
+
+C
+
+radical de l'écriture traditionnelle chinoise
+
+https://upload.wikimedia.org/wikipedia/commons/1/13/%E5%BB%BE-order.gif
 
 ----------
 
@@ -1245,6 +1695,16 @@ R
 
 
 https://upload.wikimedia.org/wikipedia/commons/1/13/BranMoviC_Hakken.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Radical 46
+
+C
+
+radical de l'écriture traditionnelle chinoise
+
+https://upload.wikimedia.org/wikipedia/commons/1/14/%E5%B1%B1-order.gif
 
 ----------
 
@@ -1305,16 +1765,6 @@ R
 nombre de fois qu'une cellule humaine normale peut se diviser avant d'entrer en sénescence
 
 https://upload.wikimedia.org/wikipedia/commons/1/16/DNA_orbit_animated.gif
-
-----------
-
-Fusion (physique)
-
-R
-
-passage d'une substance de sa phase solide à sa phase liquide
-
-https://upload.wikimedia.org/wikipedia/commons/1/16/Melting_icecubes.gif
 
 ----------
 
@@ -1408,6 +1858,16 @@ https://upload.wikimedia.org/wikipedia/commons/1/1b/Vibration_corde_fondamentale
 
 ----------
 
+Radical 15
+
+C
+
+clé chinoise traditionnelle glace (U+2F0E)
+
+https://upload.wikimedia.org/wikipedia/commons/1/1c/%E5%86%AB-order.gif
+
+----------
+
 Phantosmie
 
 R
@@ -1450,7 +1910,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/1e/Siarnaq-discovery-CFHT.gif
 
 Équation des ondes
 
-SR
+R
 
 équation qui décrit la propagation d'une onde
 
@@ -1550,11 +2010,21 @@ https://upload.wikimedia.org/wikipedia/commons/2/23/Thermally_Agitated_Molecule.
 
 五
 
-PC
+C
 
 sinogramme unifié (U+4E94)
 
 https://upload.wikimedia.org/wikipedia/commons/2/24/%E4%BA%94-order.gif
+
+----------
+
+Système trois anneaux
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/2/25/3Ring_release_animation.gif
 
 ----------
 
@@ -1570,7 +2040,7 @@ https://upload.wikimedia.org/wikipedia/commons/2/25/Blocs_anim.gif?utm_source=fr
 
 Cheval de Tchebychev
 
-C
+PC
 
 
 
@@ -1618,16 +2088,6 @@ https://upload.wikimedia.org/wikipedia/commons/2/26/Mug_and_Torus_morph.gif?utm_
 
 ----------
 
-Algorithme Adam7
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/2/27/Adam7_passes.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
 Décomposition
 
 R
@@ -1655,16 +2115,6 @@ R
 
 
 https://upload.wikimedia.org/wikipedia/commons/2/28/Four_lobes_animation_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Jeu de tir à la première personne
-
-SR
-
-type de jeu vidéo
-
-https://upload.wikimedia.org/wikipedia/commons/2/29/%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82_%D0%B8%D0%B7_%D0%B8%D0%B3%D1%80%D1%8B_S.T.A.L.K.E.R._Mobile.gif
 
 ----------
 
@@ -1758,6 +2208,16 @@ https://upload.wikimedia.org/wikipedia/commons/3/30/BallBearing.gif?utm_source=f
 
 ----------
 
+Sport en Croatie
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/3/30/Republic_of_Croatia_flag_map_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
 Icositétraèdre pentagonal
 
 PC
@@ -1838,6 +2298,16 @@ https://upload.wikimedia.org/wikipedia/commons/3/32/Virus1.gif
 
 ----------
 
+Radical 19
+
+C
+
+clé chinoise traditionnelle force (U+2F12)
+
+https://upload.wikimedia.org/wikipedia/commons/3/33/%E5%8A%9B-order.gif
+
+----------
+
 Kamikaze (attraction)
 
 PC
@@ -1860,11 +2330,11 @@ https://upload.wikimedia.org/wikipedia/commons/3/33/Lonely_runner.gif?utm_source
 
 Tic-tac-toe
 
-R
+SR
 
 jeu de réflexion
 
-https://upload.wikimedia.org/wikipedia/commons/3/33/Tictactoe1.gif
+https://upload.wikimedia.org/wikipedia/commons/3/33/Tictactoe1.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -1908,6 +2378,16 @@ https://upload.wikimedia.org/wikipedia/commons/3/37/Pogoanim.gif?utm_source=fr.w
 
 ----------
 
+Kaoani
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Onigiri_cheerleader.gif
+
+----------
+
 Joint d'Oldham
 
 PC
@@ -1930,7 +2410,7 @@ https://upload.wikimedia.org/wikipedia/commons/3/3a/Simple_CV_Joint_animated.gif
 
 Nanomatériau
 
-PC
+R
 
 matériau de structure nanométrique
 
@@ -1978,6 +2458,16 @@ https://upload.wikimedia.org/wikipedia/commons/3/3e/TimeLapseMicroscopyCancerCel
 
 ----------
 
+Radical 47
+
+C
+
+radical de l'écriture traditionnelle chinoise
+
+https://upload.wikimedia.org/wikipedia/commons/3/3f/%E5%B7%9D-order.gif
+
+----------
+
 Période radioactive
 
 R
@@ -1998,13 +2488,13 @@ https://upload.wikimedia.org/wikipedia/commons/3/3f/USCG_helicopter_propeller_an
 
 ----------
 
-Traction (musculation)
+Radical 2
 
-R
+C
 
+clé chinoise traditionnelle ligne (U+2F01)
 
-
-https://upload.wikimedia.org/wikipedia/commons/4/40/Pullup.gif
+https://upload.wikimedia.org/wikipedia/commons/4/40/%E4%B8%A8-order.gif
 
 ----------
 
@@ -2012,7 +2502,7 @@ Ilmarë (lune)
 
 C
 
-satellite de (174567) Varda
+satellite de (174567) Varda
 
 https://upload.wikimedia.org/wikipedia/commons/4/40/Varda.gif
 
@@ -2034,17 +2524,7 @@ PC
 
 agence japonaise de renseignement d'origine électromagnétique
 
-https://upload.wikimedia.org/wikipedia/commons/4/41/DIH_emblem.gif
-
-----------
-
-Hammer-on
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/4/41/Hammer_on.gif
+https://upload.wikimedia.org/wikipedia/commons/4/41/DIH_emblem.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -2060,7 +2540,7 @@ https://upload.wikimedia.org/wikipedia/commons/4/41/Nockenwelle_ani.gif?utm_sour
 
 Vis à rouleaux satellites
 
-C
+PC
 
 dispositif transformant un mvt hélicoïdal en mvt linéaire
 
@@ -2160,7 +2640,7 @@ https://upload.wikimedia.org/wikipedia/commons/4/44/ReuleauxTetrahedron_Animatio
 
 百
 
-PC
+C
 
 sinogramme unifié CJC (U+767E)
 
@@ -2230,7 +2710,7 @@ https://upload.wikimedia.org/wikipedia/commons/4/4c/Chemical_decomposition.gif?u
 
 Clupea harengus
 
-SR
+R
 
 espèce de poissons
 
@@ -2294,7 +2774,7 @@ R
 
 somme des énergie cinétique et énergie potentielle d'un système
 
-https://upload.wikimedia.org/wikipedia/commons/4/4e/Orbital_motion.gif
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Orbital_motion.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -2320,7 +2800,7 @@ https://upload.wikimedia.org/wikipedia/commons/4/4f/Blender3D_NormalWalkCycle.gi
 
 Cube
 
-R
+SR
 
 polyèdre régulier
 
@@ -2345,16 +2825,6 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/5/51/Brownianmotion5particles150frame.gif
-
-----------
-
-Salutation au Soleil
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/5/53/Suryanamaskar.gif
 
 ----------
 
@@ -2445,16 +2915,6 @@ SR
 extension abstraite du concept de l'espace usuel vu comme espace à trois dimensions
 
 https://upload.wikimedia.org/wikipedia/commons/5/55/8-cell-simple.gif
-
-----------
-
-Muscle frontal
-
-C
-
-muscle
-
-https://upload.wikimedia.org/wikipedia/commons/5/55/Frontalis_muscle_animation_small.gif
 
 ----------
 
@@ -2558,6 +3018,16 @@ https://upload.wikimedia.org/wikipedia/commons/5/5c/Lissajous01.gif?utm_source=f
 
 ----------
 
+Lotrioara
+
+C
+
+rivière de Roumanie
+
+https://upload.wikimedia.org/wikipedia/commons/5/5c/Modelare_3D_pentru_Bazinul_hidrografic_al_Raului_Lotrioara%2C_afluent_Olt.gif
+
+----------
+
 Catch
 
 SR
@@ -2598,16 +3068,6 @@ https://upload.wikimedia.org/wikipedia/commons/5/5f/Colchicine3Dan.gif
 
 ----------
 
-Théorème des trois longueurs
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/6/61/Sturmian-sequence-from-irrational-rotation.gif
-
-----------
-
 Onde longitudinale
 
 PC
@@ -2620,7 +3080,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/62/Onde_compression_impulsion_1
 
 Épanadiplose
 
-R
+SR
 
 Figure de style
 
@@ -2630,11 +3090,11 @@ https://upload.wikimedia.org/wikipedia/commons/6/63/Zoopraxiscope_16485d.gif?utm
 
 Parcours de Graham
 
-PC
+C
 
 algorithme pour le calcul de l'enveloppe convexe d'un ensemble de points
 
-https://upload.wikimedia.org/wikipedia/commons/6/64/Graham_animation.gif
+https://upload.wikimedia.org/wikipedia/commons/6/64/Graham_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -2650,7 +3110,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/65/D%2BL-Alanine.gif
 
 Dextrogyre (chimie)
 
-PC
+R
 
 
 
@@ -2715,6 +3175,16 @@ PC
 solide de Kepler-Poinsot
 
 https://upload.wikimedia.org/wikipedia/commons/6/66/SmallStellatedDodecahedron.gif
+
+----------
+
+Radical 169
+
+C
+
+radical de l'écriture traditionnelle chinoise
+
+https://upload.wikimedia.org/wikipedia/commons/6/68/%E9%96%80-order.gif
 
 ----------
 
@@ -2790,7 +3260,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/6a/Parietal_lobe_animation.gif
 
 Tri rapide
 
-R
+SR
 
 algorithme de tri
 
@@ -2820,7 +3290,7 @@ https://upload.wikimedia.org/wikipedia/commons/6/6b/Hepatic_cryoablation.gif?utm
 
 Tétrakihexaèdre
 
-C
+PC
 
 cube avec des pyramides carrées couvrant chaque face
 
@@ -2835,6 +3305,16 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/6/6c/Isotropic_radiator_animation_240x240x8frame_0.4sec.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Muntele Mic
+
+C
+
+montagne roumaine
+
+https://upload.wikimedia.org/wikipedia/commons/6/6c/Muntele_Mic_3D_version_1.gif
 
 ----------
 
@@ -2858,19 +3338,9 @@ https://upload.wikimedia.org/wikipedia/commons/6/6d/Translational_motion.gif?utm
 
 ----------
 
-Phagocytose
-
-SR
-
-processus cellulaire
-
-https://upload.wikimedia.org/wikipedia/commons/6/6e/FAGOCITOSI_BY_RAFF.gif
-
-----------
-
 Endocytose
 
-PC
+R
 
 
 
@@ -3004,7 +3474,7 @@ SR
 
 technique d'imagerie médicale
 
-https://upload.wikimedia.org/wikipedia/commons/7/72/Brain_chrischan_300.gif
+https://upload.wikimedia.org/wikipedia/commons/7/72/Brain_chrischan_300.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -3044,7 +3514,7 @@ R
 
 mécanisme d'horlogerie
 
-https://upload.wikimedia.org/wikipedia/commons/7/75/Paletteankerhemmung.gif
+https://upload.wikimedia.org/wikipedia/commons/7/75/Paletteankerhemmung.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -3055,16 +3525,6 @@ PC
 sport de raquette
 
 https://upload.wikimedia.org/wikipedia/commons/7/76/Beach_Ball_Motion.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Nanotechnologie
-
-SR
-
-étude et procédés de fabrication de dispositifs à l'échelle du nanomètre
-
-https://upload.wikimedia.org/wikipedia/commons/7/76/Kohlenstoffnanoroehre_Animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -3175,16 +3635,6 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/7/7b/Falling_Sphere_Viscometer.gif
-
-----------
-
-一 (kanji)
-
-PC
-
-sinogramme unifié CJC (U+4E00)
-
-https://upload.wikimedia.org/wikipedia/commons/7/7c/%E4%B8%80-order.gif
 
 ----------
 
@@ -3358,6 +3808,16 @@ https://upload.wikimedia.org/wikipedia/commons/8/82/Parathyroid_med_ani.gif
 
 ----------
 
+Radical 39
+
+C
+
+clé chinoise traditionnelle enfant (U+2F26)
+
+https://upload.wikimedia.org/wikipedia/commons/8/83/%E5%AD%90-order.gif
+
+----------
+
 Loi binomiale négative
 
 R
@@ -3378,16 +3838,6 @@ https://upload.wikimedia.org/wikipedia/commons/8/83/Path-of-test-charge-in-elect
 
 ----------
 
-Néréis
-
-PC
-
-genre de vers polychètes
-
-https://upload.wikimedia.org/wikipedia/commons/8/84/Nereis_small.gif
-
-----------
-
 Aciculata
 
 C
@@ -3395,16 +3845,6 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/8/84/Nereis_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Protéine ribosomique
-
-C
-
-groupe de protéines
-
-https://upload.wikimedia.org/wikipedia/commons/8/85/010_large_subunit-1FFK.gif
 
 ----------
 
@@ -3450,7 +3890,7 @@ https://upload.wikimedia.org/wikipedia/commons/8/87/Animated_GIF_from_the_1919_F
 
 Ligne de changement de date
 
-SR
+R
 
 Ligne imaginaire de la surface terrestre qui sépare le dernier fuseau horaire du premier.
 
@@ -3515,16 +3955,6 @@ R
 mesure du volume balayé par l'ensemble des pistons d'un moteur à piston
 
 https://upload.wikimedia.org/wikipedia/commons/8/8a/Displacement.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Macédoine
-
-R
-
-page d'homonymie de Wikimédia
-
-https://upload.wikimedia.org/wikipedia/commons/8/8a/HistMac.gif
 
 ----------
 
@@ -3600,11 +4030,21 @@ https://upload.wikimedia.org/wikipedia/commons/8/8c/Titolazione.gif
 
 (216) Cléopâtre
 
-C
+PC
 
 astéroïde de la ceinture principale
 
 https://upload.wikimedia.org/wikipedia/commons/8/8d/216_Kleopatra_3D.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Radical 3
+
+C
+
+clé chinoise traditionnelle point (U+2F02)
+
+https://upload.wikimedia.org/wikipedia/commons/8/8e/%E4%B8%B6-order.gif
 
 ----------
 
@@ -3615,16 +4055,6 @@ C
 sinogramme unifié (U+4E8C) pour le nombre deux
 
 https://upload.wikimedia.org/wikipedia/commons/8/8e/%E4%BA%8C-order.gif
-
-----------
-
-Dorsale médio-atlantique
-
-R
-
-chaîne de montagne
-
-https://upload.wikimedia.org/wikipedia/commons/8/8e/Pangea_animation_03.gif
 
 ----------
 
@@ -3644,7 +4074,7 @@ R
 
 
 
-https://upload.wikimedia.org/wikipedia/commons/8/8f/Occipital_lobe_animation_small.gif
+https://upload.wikimedia.org/wikipedia/commons/8/8f/Occipital_lobe_animation_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -3688,16 +4118,6 @@ https://upload.wikimedia.org/wikipedia/commons/9/90/010_small_subunit-1FKA.gif
 
 ----------
 
-Fonction d'onde
-
-SR
-
-concept fondamental de la mécanique quantique
-
-https://upload.wikimedia.org/wikipedia/commons/9/90/QuantumHarmonicOscillatorAnimation.gif
-
-----------
-
 Oscillateur harmonique quantique
 
 R
@@ -3705,16 +4125,6 @@ R
 
 
 https://upload.wikimedia.org/wikipedia/commons/9/90/QuantumHarmonicOscillatorAnimation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Hexlet de Soddy
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/9/90/Rotating_hexlet_equator_opt.gif
 
 ----------
 
@@ -3735,16 +4145,6 @@ C
 composé chimique
 
 https://upload.wikimedia.org/wikipedia/commons/9/91/Gramicidin_A.gif
-
-----------
-
-Mois de l'année en japonais
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/9/92/%E6%9C%88-order.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -3794,7 +4194,7 @@ PC
 
 processus algorithmique qui, étant donnés deux termes, trouve une substitution qui appliquée aux deux termes les rend identiques
 
-https://upload.wikimedia.org/wikipedia/commons/9/96/Unification_animation.gif
+https://upload.wikimedia.org/wikipedia/commons/9/96/Unification_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -3862,9 +4262,19 @@ Croix de Malte (mécanisme)
 
 R
 
-système mécanique permettant la transformation d'un mouvement
+mécanisme de transformation d'un mouvement continu en saccadée
 
 https://upload.wikimedia.org/wikipedia/commons/9/9b/Geneva_mechanism_6spoke_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Sphéricône
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/9/9b/Sphericon-ani.gif
 
 ----------
 
@@ -3892,7 +4302,7 @@ Constellation de satellites
 
 R
 
-
+Groupe de satellites identiques fournissant un service global
 
 https://upload.wikimedia.org/wikipedia/commons/9/9c/ConstellationGPS.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
@@ -3918,6 +4328,16 @@ https://upload.wikimedia.org/wikipedia/commons/9/9d/MTS_Trolley_Fleet_Animation.
 
 ----------
 
+Thaumatrope
+
+R
+
+jouet optique
+
+https://upload.wikimedia.org/wikipedia/commons/9/9f/Taumatropio_fiori_e_vaso%2C_1825.gif
+
+----------
+
 Objet hadéocroiseur
 
 C
@@ -3940,21 +4360,11 @@ https://upload.wikimedia.org/wikipedia/commons/a/a0/AnimatedOrbitOf9950ESA.gif?u
 
 Période synodique
 
-SR
+R
 
 temps qui s'écoule entre deux passages d'un objet devant une étoile distante depuis un autre objet en orbite
 
 https://upload.wikimedia.org/wikipedia/commons/a/a0/Synodic_period.gif
-
-----------
-
-Touret à meuler
-
-PC
-
-machine d'atelier composée de pierres abrasives
-
-https://upload.wikimedia.org/wikipedia/commons/a/a2/Rotating_grinder.gif
 
 ----------
 
@@ -4008,6 +4418,16 @@ https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif
 
 ----------
 
+Jeu de pousse-pousse
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/a/a5/Batgirl.gif
+
+----------
+
 Lof
 
 R
@@ -4030,7 +4450,7 @@ https://upload.wikimedia.org/wikipedia/commons/a/a5/Shivering_sail_killendes_Seg
 
 Smoothsort
 
-C
+PC
 
 algorithme de tri
 
@@ -4178,23 +4598,13 @@ https://upload.wikimedia.org/wikipedia/commons/a/ab/Barber-pole-01.gif?utm_sourc
 
 ----------
 
-Triangle de Bell
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/a/ab/BellNumberAnimated.gif
-
-----------
-
 Vertèbre cervicale
 
 SR
 
 os portant le cou
 
-https://upload.wikimedia.org/wikipedia/commons/a/ab/Cervical_vertebrae_animation_small.gif
+https://upload.wikimedia.org/wikipedia/commons/a/ab/Cervical_vertebrae_animation_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -4230,7 +4640,7 @@ https://upload.wikimedia.org/wikipedia/commons/a/ac/Rotating_gimbal-xyz.gif?utm_
 
 Karabo Poppy Moletsane
 
-C
+PC
 
 illustratrrice
 
@@ -4275,6 +4685,16 @@ PC
 courbe continue remplissant un carré
 
 https://upload.wikimedia.org/wikipedia/commons/b/b1/Hilbert_curve%21.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Pont rétractable
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/b/b1/MovableBridge_thrust.gif
 
 ----------
 
@@ -4330,7 +4750,7 @@ https://upload.wikimedia.org/wikipedia/commons/b/b3/CopFlashingLights.gif?utm_so
 
 Tourbillon de poussière
 
-SR
+R
 
 phénomène météorologique du sable dans l'air
 
@@ -4375,16 +4795,6 @@ C
 polyèdre convexe formé de 24 triangles isocèles
 
 https://upload.wikimedia.org/wikipedia/commons/b/b4/Triakisoctahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Référentiel en rotation
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -4445,16 +4855,6 @@ SR
 dépression météorologique majeure
 
 https://upload.wikimedia.org/wikipedia/commons/b/b9/Xynthia_animated_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-(9965) GNU
-
-C
-
-astéroïde de la ceinture principale d'astéroïdes
-
-https://upload.wikimedia.org/wikipedia/commons/b/ba/AnimatedOrbitOf9965GNU.gif
 
 ----------
 
@@ -4614,17 +5014,7 @@ PC
 
 Problème mathématique conceptuel
 
-https://upload.wikimedia.org/wikipedia/commons/c/c1/Hammersley_sofa_animated.gif
-
-----------
-
-Dzogchen
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/c/c1/White-A-1Anime250.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+https://upload.wikimedia.org/wikipedia/commons/c/c1/Hammersley_sofa_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -4640,7 +5030,7 @@ https://upload.wikimedia.org/wikipedia/commons/c/c2/2-3_O1.gif?utm_source=fr.wik
 
 Hexacontaèdre trapézoïdal
 
-C
+PC
 
 polyèdre composé de 60 faces en forme de cerfs-volants
 
@@ -4675,16 +5065,6 @@ SR
 programme d'armement mis en place par les USA pendant la Seconde Guerre mondiale afin de fournir aux pays amis du matériel de guerre
 
 https://upload.wikimedia.org/wikipedia/commons/c/c4/FDRoosevelt.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Piézoélectricité
-
-SR
-
-phénomène physique
-
-https://upload.wikimedia.org/wikipedia/commons/c/c4/SchemaPiezo.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -4750,7 +5130,7 @@ https://upload.wikimedia.org/wikipedia/commons/c/c6/Idroformatura_animata.gif
 
 Ramasseuse-presse
 
-R
+PC
 
 machine agricole
 
@@ -4790,7 +5170,7 @@ https://upload.wikimedia.org/wikipedia/commons/c/cb/Dione.gif?utm_source=fr.wiki
 
 Triaki-icosaèdre
 
-C
+PC
 
 polyèdre convexe formé de 60 triangles isocèles
 
@@ -4805,16 +5185,6 @@ SR
 moteur à combustion externe et à fluide de travail en cycle fermé
 
 https://upload.wikimedia.org/wikipedia/commons/c/cc/Alpha_Stirling.gif
-
-----------
-
-Roue (gymnastique)
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/c/cc/Capoeira_animation_auregional.gif
 
 ----------
 
@@ -4855,6 +5225,16 @@ R
 modèle cosmologique proposant un scénario inhabituel de la fin de l'Univers
 
 https://upload.wikimedia.org/wikipedia/commons/c/ce/Cosmos-animation_Empty.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Radical 24
+
+C
+
+clé chinoise traditionnelle dix (U+2F17)
+
+https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%8D%81-order.gif
 
 ----------
 
@@ -4934,7 +5314,7 @@ C
 
 protons se propageant au travers d'une série de liaisons hydrogène entre les ions hydronium et les molécules d'eau
 
-https://upload.wikimedia.org/wikipedia/commons/d/d3/Proton_Zundel.gif
+https://upload.wikimedia.org/wikipedia/commons/d/d3/Proton_Zundel.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -4970,7 +5350,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Sun_and_planet_gears.gif?utm
 
 Oscillation
 
-PC
+R
 
 fluctuation périodique autour d'une position d'équilibre stable
 
@@ -5178,6 +5558,16 @@ https://upload.wikimedia.org/wikipedia/commons/e/e2/%C4%90i%E1%BB%87n_t%C3%A2m_%
 
 ----------
 
+Radical 16
+
+C
+
+clé chinoise traditionnelle table basse (U+2F0F)
+
+https://upload.wikimedia.org/wikipedia/commons/e/e2/%E5%87%A0-order.gif
+
+----------
+
 Résistance initiale d'une colle ou d'un adhésif
 
 C
@@ -5298,13 +5688,13 @@ https://upload.wikimedia.org/wikipedia/commons/e/e7/Waterincup.gif?utm_source=fr
 
 ----------
 
-Mode normal
+Rhéa (lune)
 
 R
 
-mode de vibration
+satellite de Saturne
 
-https://upload.wikimedia.org/wikipedia/commons/e/e9/Drum_vibration_mode12.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+https://upload.wikimedia.org/wikipedia/commons/e/ea/Rhea.gif
 
 ----------
 
@@ -5315,16 +5705,6 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/e/ea/Steiner%27s_Roman_Surface.gif
-
-----------
-
-(9924) Corrigan
-
-C
-
-astéroïde de la ceinture principale d'astéroïdes
-
-https://upload.wikimedia.org/wikipedia/commons/e/ec/AnimatedOrbitOf99241981EM24.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -5420,7 +5800,7 @@ https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif
 
 Bicouche lipidique
 
-PC
+R
 
 
 
@@ -5458,6 +5838,16 @@ https://upload.wikimedia.org/wikipedia/commons/f/f1/3D_SSD.gif
 
 ----------
 
+Radical 84
+
+C
+
+radical de l'écriture traditionnelle chinoise
+
+https://upload.wikimedia.org/wikipedia/commons/f/f2/%E6%B0%94-order.gif
+
+----------
+
 Gérakas
 
 C
@@ -5485,16 +5875,6 @@ SR
 trajectoire que dessine dans l'espace un corps autour d'un autre corps sous l'effet de la gravitation
 
 https://upload.wikimedia.org/wikipedia/commons/f/f2/Orbit2.gif
-
-----------
-
-(469610) 2004 HF79
-
-C
-
-cubewano binaire
-
-https://upload.wikimedia.org/wikipedia/commons/f/f2/Orbit2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
@@ -5738,16 +6118,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Puncak_Jaya_glaciers_1
 
 ----------
 
-Transparence
-
-PC
-
-page d'homonymie de Wikimédia
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Pyramid_of_35_spheres_animation2.gif/330px-Pyramid_of_35_spheres_animation2.gif
-
-----------
-
 73P/Schwassmann-Wachmann
 
 C
@@ -5765,6 +6135,16 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Zygomatic_process_of_maxilla_-_animation03.gif/330px-Zygomatic_process_of_maxilla_-_animation03.gif
+
+----------
+
+Symétrie centrale
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Date_%C3%A0_Sym%C3%A9trie_Centrale.gif/330px-Date_%C3%A0_Sym%C3%A9trie_Centrale.gif
 
 ----------
 
@@ -5808,6 +6188,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/EpitrochoidOn2.gif/330
 
 ----------
 
+Fornix
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fornix.gif/330px-Fornix.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Ilium (anatomie)
 
 R
@@ -5838,26 +6228,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Acromion_of_left_scapu
 
 ----------
 
-Vol stationnaire
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Animation_090831_1656_mnvr.gif/330px-Animation_090831_1656_mnvr.gif
-
-----------
-
-Processus coracoïde
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Coracoid_process_of_left_scapula_-_animation01.gif/330px-Coracoid_process_of_left_scapula_-_animation01.gif
-
-----------
-
 Terpapillon
 
 C
@@ -5865,16 +6235,6 @@ C
 papillon ternaire
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Petaloi.gif/330px-Petaloi.gif
-
-----------
-
-Dessin animé
-
-SR
-
-film fait à partir de dessins
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sasha_test.gif/330px-Sasha_test.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -5928,6 +6288,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ZC16_-_Circlepit_-_De_
 
 ----------
 
+Cylindre sphérique
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cylindre_sph%C3%A9rique_construction.gif/330px-Cylindre_sph%C3%A9rique_construction.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Énergie du point zéro
 
 R
@@ -5958,13 +6328,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Maclaurin_animated2.gi
 
 ----------
 
-Coefficient de Poisson
+Pupille (optique)
 
-R
+PC
 
-Constante élastique
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Poissons_Ratio_animation.gif/330px-Poissons_Ratio_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pupilles_entr%C3%A9e_sortie_01.gif/330px-Pupilles_entr%C3%A9e_sortie_01.gif
 
 ----------
 
@@ -6038,16 +6408,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/ECDH.gif/330px-ECDH.gi
 
 ----------
 
-Paramètre de position
-
-C
-
-éléments de la statistique moderne
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Location_parameter_normal_distribution.gif/330px-Location_parameter_normal_distribution.gif
-
-----------
-
 Muscle semi-membraneux
 
 R
@@ -6068,6 +6428,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Styloid_process_of_tem
 
 ----------
 
+(5222) Ioffe
+
+C
+
+astéroïde de la ceinture principale d'astéroïdes
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ioffe.GIF/330px-Ioffe.GIF?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Surface lunaire de l'acétabulum
 
 C
@@ -6085,6 +6455,16 @@ C
 satellite de Jupiter
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Taygete-Jewitt-CFHT-annotated.gif/330px-Taygete-Jewitt-CFHT-annotated.gif
+
+----------
+
+Rotation de Mercure
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Orbital_resonance_of_Mercury.gif/330px-Orbital_resonance_of_Mercury.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -6118,16 +6498,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Greater_sciatic_notch_
 
 ----------
 
-Pabu (lune)
-
-C
-
-satellite de (66652) Borasisi
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Orbit5.gif/330px-Orbit5.gif
-
-----------
-
 Clear (Unix)
 
 C
@@ -6140,7 +6510,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Clear-gnulinux.gif/330
 
 Algorithme de Floyd-Warshall
 
-PC
+R
 
 détermine les distances des plus courts chemins entre toutes les paires de sommets dans un graphe orienté et pondéré
 
@@ -6165,16 +6535,6 @@ PC
 orifice présenté par l'os coxal
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Obturator_foramen_02_animation.gif/330px-Obturator_foramen_02_animation.gif
-
-----------
-
-Illusion des séries
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RandomPoints.gif/330px-RandomPoints.gif
 
 ----------
 
@@ -6290,11 +6650,21 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Obturator_externus_lar
 
 Spread
 
-PC
+R
 
 page d'homonymie de Wikimedia
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Order_book_depth_chart.gif/330px-Order_book_depth_chart.gif
+
+----------
+
+Bid et ask
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Order_book_depth_chart.gif/330px-Order_book_depth_chart.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -6358,16 +6728,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Satellite_loop_of_Torn
 
 ----------
 
-Poire (caricature)
-
-R
-
-caricature de Louis-Philippe Ier dessinée en 1831
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Les_Poires_anim%C3%A9es.gif/330px-Les_Poires_anim%C3%A9es.gif
-
-----------
-
 Sriwijaya
 
 R
@@ -6385,16 +6745,6 @@ SR
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%D0%A3%D0%B7%D0%B5%D0%BB_%D1%8D%D1%88%D0%B0%D1%84%D0%BE%D1%82%D0%BD%D1%8B%D0%B9.gif/330px-%D0%A3%D0%B7%D0%B5%D0%BB_%D1%8D%D1%88%D0%B0%D1%84%D0%BE%D1%82%D0%BD%D1%8B%D0%B9.gif
-
-----------
-
-AutoCAD
-
-SR
-
-logiciel de dessin assisté par ordinateur
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/AutoCAD_sample_3D.gif/330px-AutoCAD_sample_3D.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -6518,16 +6868,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Uranus_JWST_infrared_r
 
 ----------
 
-Moteur brownien
-
-C
-
-Machine à l’échelle nanoscopique
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kinesin_walking.gif/330px-Kinesin_walking.gif
-
-----------
-
 Cuisine byzantine
 
 C
@@ -6538,6 +6878,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Byzantine_Empire_map.g
 
 ----------
 
+Mutations du breton
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mutations_en_breton.gif/330px-Mutations_en_breton.gif
+
+----------
+
 Jupiter LXIX
 
 C
@@ -6545,16 +6895,6 @@ C
 satellite naturel de Jupiter
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2017_J_8_CFHT_precovery_full.gif/330px-2017_J_8_CFHT_precovery_full.gif
-
-----------
-
-Complétion du carré
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Completing_the_square.gif/330px-Completing_the_square.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -6618,16 +6958,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Medulla_oblongata.gif/
 
 ----------
 
-Paramètre d'échelle
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Scale_parameter_normal_distribution.gif/330px-Scale_parameter_normal_distribution.gif
-
-----------
-
 Épitrochoïde
 
 PC
@@ -6688,16 +7018,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Manoeuvre_bateau_-_Aba
 
 ----------
 
-Fosse crânienne moyenne
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Middle_cranial_fossa_-_animation.gif/330px-Middle_cranial_fossa_-_animation.gif
-
-----------
-
 Tri spaghetti
 
 C
@@ -6705,26 +7025,6 @@ C
 algorithme de tri
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Spaghetti_sort.gif/330px-Spaghetti_sort.gif
-
-----------
-
-Transporteur à vis
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Archimedes-screw_one-screw-threads_with-ball_3D-view_animated_small.gif/330px-Archimedes-screw_one-screw-threads_with-ball_3D-view_animated_small.gif
-
-----------
-
-Vis d'Archimède
-
-R
-
-Machine
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Archimedes-screw_one-screw-threads_with-ball_3D-view_animated_small.gif/330px-Archimedes-screw_one-screw-threads_with-ball_3D-view_animated_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -6755,6 +7055,16 @@ UR
 anciens États
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Franks_expansion.gif/330px-Franks_expansion.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Fosse condylaire
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Condyloid_fossa_-_animation01.gif/330px-Condyloid_fossa_-_animation01.gif
 
 ----------
 
@@ -6815,16 +7125,6 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zener_Pinning_Interface_N_Particle.gif/330px-Zener_Pinning_Interface_N_Particle.gif
-
-----------
-
-Triangle d'été
-
-SR
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alta%C3%AFr_Vega_%26_Deneb.gif/330px-Alta%C3%AFr_Vega_%26_Deneb.gif
 
 ----------
 
@@ -6938,6 +7238,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%D0%92%D0%BF%D0%B8%D1%
 
 ----------
 
+S/2003 J 4
+
+C
+
+satellite de Jupiter
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2003_J_4_Gladman_CFHT_annotated.gif/330px-2003_J_4_Gladman_CFHT_annotated.gif
+
+----------
+
 Muscle troisième fibulaire
 
 PC
@@ -6948,23 +7258,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Peroneus_tertius_muscl
 
 ----------
 
-Reptyl
+Spondé (lune)
 
 C
 
+satellite de Jupiter
 
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Reptyl_ouverture_e7...e3_Suite_d3-d2-c2-c1-d1_001.gif/330px-Reptyl_ouverture_e7...e3_Suite_d3-d2-c2-c1-d1_001.gif
-
-----------
-
-Globe terrestre
-
-SR
-
-représentation réduite et en trois dimensions, de la Terre
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/330px-Rotating_earth_%28large%29.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sponde-discovery-CFHT-annotated.gif/330px-Sponde-discovery-CFHT-annotated.gif
 
 ----------
 
@@ -6988,19 +7288,9 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Lesser_sciatic_notch_0
 
 ----------
 
-2020 en astronomie
-
-C
-
-synthèse d'événements
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/OSIRIS-REX_SamCam_TAGSAM_Event_2020-10-20_small.gif/330px-OSIRIS-REX_SamCam_TAGSAM_Event_2020-10-20_small.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Tubercule supraglénoïdal
 
-C
+PC
 
 
 
@@ -7028,26 +7318,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Boruvka%27s_algorithm_
 
 ----------
 
-Processus condylien de la mandibule
-
-PC
-
-partie du corps humain située dans le crâne
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Condyloid_process_-_close-up_-_animation2.gif/330px-Condyloid_process_-_close-up_-_animation2.gif
-
-----------
-
-Muscle iliaque
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Iliacus_muscle_-_animation05.gif/330px-Iliacus_muscle_-_animation05.gif
-
-----------
-
 Pubis
 
 SR
@@ -7070,7 +7340,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Bisymmetric_Hendecahed
 
 Muscle intercostal intime
 
-C
+PC
 
 
 
@@ -7085,16 +7355,6 @@ C
 technique de projection de judo
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jud-morote-gari.gif/330px-Jud-morote-gari.gif
-
-----------
-
-Flocon de Mosely
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Moselycube1.gif/330px-Moselycube1.gif
 
 ----------
 
@@ -7140,21 +7400,11 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/PSIS_-_animation03.gif
 
 2012 en astronomie
 
-PC
+C
 
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Transit_of_venus_2012_Handa_Aichi_movie.gif/330px-Transit_of_venus_2012_Handa_Aichi_movie.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Histoire éruptive du piton de la Fournaise
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Piton_Fournaise_eruptions_animated-fr.gif/330px-Piton_Fournaise_eruptions_animated-fr.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -7165,16 +7415,6 @@ C
 astéroïde de la ceinture principale d'astéroïdes
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Asteroid_Milianleo_Animation.gif/330px-Asteroid_Milianleo_Animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Muscle brachial
-
-R
-
-muscle du bras
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Brachialis_muscle_-_animation03.gif/330px-Brachialis_muscle_-_animation03.gif
 
 ----------
 
@@ -7215,16 +7455,6 @@ C
 satellite naturel de Jupiter
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2017_J_1_CFHT_precovery_full.gif/330px-2017_J_1_CFHT_precovery_full.gif
-
-----------
-
-Muscle piriforme
-
-R
-
-Muscle locomoteur
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Piriformis_large.gif/330px-Piriformis_large.gif
 
 ----------
 
@@ -7328,16 +7558,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Superior_view_fibulari
 
 ----------
 
-Optimisation par essaims particulaires
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/PSO-GIF.gif/330px-PSO-GIF.gif
-
-----------
-
 Muscle poplité
 
 R
@@ -7365,6 +7585,16 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dipole.gif/330px-Dipole.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Série de marées-noires en Bretagne des années 1970
+
+R
+
+page de liste de Wikimedia
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mar%C3%A9esNoires_Bretagne_70s.gif/330px-Mar%C3%A9esNoires_Bretagne_70s.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -7410,11 +7640,21 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Arc-boutement1.gif/330
 
 Dénominations de la guerre de Sécession
 
-C
+PC
 
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/United_States_1860-1870.gif/330px-United_States_1860-1870.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Neurocrâne
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neurocranium_-_animation02.gif/330px-Neurocranium_-_animation02.gif
 
 ----------
 
@@ -7490,7 +7730,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Phenakistoscope_3g0769
 
 Fonction thêta
 
-PC
+R
 
 fonctions mathématiques spéciales de plusieurs variables complexes
 
@@ -7555,36 +7795,6 @@ C
 objet transneptunien
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1994_JR1_close-up_from_New_Horizons.gif/330px-1994_JR1_close-up_from_New_Horizons.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Ambigramme
-
-SR
-
-type de tracé calligraphique ou typographique ayant plusieurs interprétations possibles
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ambigramme_du_mot_Ambigramme_-_noir_sur_fond_blanc_anim%C3%A9.gif/330px-Ambigramme_du_mot_Ambigramme_-_noir_sur_fond_blanc_anim%C3%A9.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Verglas massif de janvier 1998 dans le Nord-Est de l'Amérique du Nord
-
-R
-
-période de janvier 1998 où une série de perturbations météorologiques donnèrent de la pluie verglaçante dans le nord-est de l'Amérique du Nord
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Boucle_GOES8-1998-01_07-09.gif/330px-Boucle_GOES8-1998-01_07-09.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Muscle glutéal
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gluteus_all.gif/330px-Gluteus_all.gif
 
 ----------
 
@@ -7658,6 +7868,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Asteroid_%283169%29_Os
 
 ----------
 
+Rotomoulage
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rotational_molding_animation.gif/330px-Rotational_molding_animation.gif
+
+----------
+
 Feu rouge clignotant (SNCF)
 
 PC
@@ -7720,31 +7940,11 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kalyke-Jewitt-CFHT-ann
 
 Orange Herald
 
-C
+PC
 
 arme nucléaire britannique
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/OrangeHerald1952.gif/330px-OrangeHerald1952.gif
-
-----------
-
-Décolonisation de l'Afrique
-
-R
-
-retrait des puissances coloniales de l'Afrique après la Seconde Guerre mondiale
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/African_nations_order_of_independence_1950-1993.gif/330px-African_nations_order_of_independence_1950-1993.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Cake-walk
-
-R
-
-dance
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cake_walk_1903%2C_10_seconds.gif/330px-Cake_walk_1903%2C_10_seconds.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -7780,7 +7980,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Quartz-zhaseni.gif/330
 
 (90482) Orcus
 
-R
+PC
 
 objet transneptunien
 
@@ -7840,7 +8040,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pythagorean_theorem_-_
 
 Sphénoïdotomie
 
-C
+PC
 
 
 
@@ -7860,7 +8060,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/DiffusionMicroMacro.gi
 
 Phare escamotable
 
-R
+PC
 
 
 
@@ -7898,16 +8098,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Lateral_parts_of_occip
 
 ----------
 
-Talus (os)
-
-SR
-
-os du corps humain
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Left_Talus_bone_-_animation01.gif/330px-Left_Talus_bone_-_animation01.gif
-
-----------
-
 Épine iliaque postérieure et inférieure
 
 C
@@ -7928,16 +8118,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Facial_bones_-_animati
 
 ----------
 
-Transformation de Fourier
-
-SR
-
-extension du développement en série de Fourier
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fourier_transform_time_and_frequency_domains.gif/330px-Fourier_transform_time_and_frequency_domains.gif
-
-----------
-
 Pigalle (chaussure)
 
 PC
@@ -7950,7 +8130,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Louboutin_Pigalle_Foll
 
 Deuxième métacarpien
 
-C
+PC
 
 
 
@@ -7960,7 +8140,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Second_metacarpal_bone
 
 Muscle dentelé postérieur et inférieur
 
-PC
+R
 
 
 
@@ -8018,6 +8198,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Collaborative_filterin
 
 ----------
 
+Orbite en fer à cheval
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Animation_of_%28419624%29_2010_SO16_orbit.gif/330px-Animation_of_%28419624%29_2010_SO16_orbit.gif
+
+----------
+
 Autonoé (lune)
 
 C
@@ -8040,7 +8230,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Coccyx_-_animation04.g
 
 Somme exponentielle
 
-C
+PC
 
 
 
@@ -8088,13 +8278,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Einstein%40Home.gif/33
 
 ----------
 
-Algorithme KL-UCB
+Os temporal
 
-C
+R
 
+os du crâne
 
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/UCB2FR.gif/330px-UCB2FR.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Temporal_bone_-_animation_01.gif/330px-Temporal_bone_-_animation_01.gif
 
 ----------
 
@@ -8105,16 +8295,6 @@ SR
 caractéristique du mouvement d'un satellite naturel
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tidal_locking_of_the_Moon_with_the_Earth.gif/330px-Tidal_locking_of_the_Moon_with_the_Earth.gif
-
-----------
-
-Muscle long adducteur
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Adductor_longus.gif/330px-Adductor_longus.gif
 
 ----------
 
@@ -8188,6 +8368,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/EDNA_gif_without_time.
 
 ----------
 
+Papier chinois
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Making_Paper.gif/330px-Making_Paper.gif
+
+----------
+
 Motion comic
 
 C
@@ -8228,16 +8418,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sternum_animation2.gif
 
 ----------
 
-Moteur à pistons axiaux
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Taumelscheibenmotor_animiert.gif/330px-Taumelscheibenmotor_animiert.gif
-
-----------
-
 Vague de trafic
 
 C
@@ -8272,7 +8452,7 @@ Ingenuity (hélicoptère)
 
 R
 
-drone expérimental accidenté de la mission martienne Mars 2020
+drone expérimental accidenté de la mission martienne Mars 2020
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ingenuity_Helicopter_Rotor_Blades_Unlocked_GifCam.gif/330px-Ingenuity_Helicopter_Rotor_Blades_Unlocked_GifCam.gif
 
@@ -8295,16 +8475,6 @@ C
 gène de l'espèce Homo sapiens
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/FADD_based_on_pdb_file_2GF5.gif/330px-FADD_based_on_pdb_file_2GF5.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Muscle plantaire
-
-R
-
-muscle de la jambe
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Plantaris_muscle_-_animation.gif/330px-Plantaris_muscle_-_animation.gif
 
 ----------
 
@@ -8418,16 +8588,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Roberts_Linkage.gif/33
 
 ----------
 
-Siège de Rome (République romaine)
-
-C
-
-légende
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Si%C3%A8ge_de_Porsenna.GIF/330px-Si%C3%A8ge_de_Porsenna.GIF
-
-----------
-
 Suite de pliage de papier
 
 C
@@ -8488,6 +8648,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/EM_Clustering_of_Old_F
 
 ----------
 
+Tempête Bruno (2017)
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BrunoEdilbertstorm.gif/330px-BrunoEdilbertstorm.gif
+
+----------
+
 Muscle long extenseur de l'hallux
 
 R
@@ -8498,13 +8668,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Extensor_hallucis_long
 
 ----------
 
-Unifac
+Point coulé
 
 C
 
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/SattleAzeotropACMChemSep.gif/330px-SattleAzeotropACMChemSep.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lockstitch-Oscillating_Hook-600.gif/330px-Lockstitch-Oscillating_Hook-600.gif
 
 ----------
 
@@ -8515,16 +8685,6 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Animation_of_AJISAI_trajectory.gif/330px-Animation_of_AJISAI_trajectory.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Système binaire (astronomie)
-
-PC
-
-système astronomique regroupant deux objets de l'espace
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pluto-Charon_System.gif/330px-Pluto-Charon_System.gif
 
 ----------
 
@@ -8585,16 +8745,6 @@ SR
 petite glande endocrine de l'épithalamus du cerveau des vertébrés
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Pineal_gland.gif/330px-Pineal_gland.gif
-
-----------
-
-Muscle petit glutéal
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Gluteus_minimus_muscle_-_animation01.gif/330px-Gluteus_minimus_muscle_-_animation01.gif
 
 ----------
 
@@ -8698,6 +8848,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Blue_field_entoptic_ph
 
 ----------
 
+Mur rouge (politique britannique)
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UK_General_Election_2017-19_result_changes.gif/330px-UK_General_Election_2017-19_result_changes.gif
+
+----------
+
 Suture temporo-zygomatique
 
 C
@@ -8778,16 +8938,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Second_world_war_europ
 
 ----------
 
-The Upside-Downs of Little Lady Lovekins and Old Man Muffaroo
-
-C
-
-bande dessinée humoristique
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Verbeek-rocanoe.gif/330px-Verbeek-rocanoe.gif
-
-----------
-
 Suture lambdoïde
 
 PC
@@ -8828,16 +8978,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Teres_major_muscle_ani
 
 ----------
 
-Algorithme de Bellman-Ford
-
-R
-
-calcul des plus courts chemins depuis un sommet source donné dans un graphe orienté pondéré
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Bellman%E2%80%93Ford_algorithm_example.gif/330px-Bellman%E2%80%93Ford_algorithm_example.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Presse plieuse
 
 PC
@@ -8845,16 +8985,6 @@ PC
 bombled
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Biegeanimation_3D.gif/330px-Biegeanimation_3D.gif
-
-----------
-
-Moteur à plat
-
-R
-
-type de moteur à pistons
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Box.gif/330px-Box.gif
 
 ----------
 
@@ -8888,6 +9018,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tide_animation.gif/330
 
 ----------
 
+États des États-Unis par ordre d'entrée dans l'Union
+
+R
+
+page de liste de Wikimédia
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_states_by_date_of_statehood.gif/330px-US_states_by_date_of_statehood.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Explication avec les mains
 
 C
@@ -8895,16 +9035,6 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/01-Satz_des_Pythagoras-W.gif/330px-01-Satz_des_Pythagoras-W.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Paradoxe d'Andromède
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Relativity_of_Simultaneity_Animation.gif/330px-Relativity_of_Simultaneity_Animation.gif
 
 ----------
 
@@ -8975,16 +9105,6 @@ SR
 muscle fessier
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gluteus_maximus_3D.gif/330px-Gluteus_maximus_3D.gif
-
-----------
-
-Muscle soléaire
-
-R
-
-muscle de la jambe
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Soleus_muscle_-_animation.gif/330px-Soleus_muscle_-_animation.gif
 
 ----------
 
@@ -9060,7 +9180,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Costal_cartilages_anim
 
 Instabilité symétrique conditionnelle
 
-PC
+C
 
 notion de sciences physiques
 
@@ -9072,7 +9192,7 @@ Histoire de la météorologie
 
 R
 
-
+développement historique des sciences de l'atmosphère
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NuageCharas.gif/330px-NuageCharas.gif
 
@@ -9138,13 +9258,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mandibular_notch_-_clo
 
 ----------
 
-Météore de Tcheliabinsk
+Onde sphérique
 
-R
+PC
 
-météorite ayant frappé la Russie le 15 février 2013
+onde dont les fronts d'onde sont des sphères
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Meteorite_explosion_over_Chelyabinsk_on_February_15%2C_2013.gif/330px-Meteorite_explosion_over_Chelyabinsk_on_February_15%2C_2013.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Spherical_pressure_waves.gif/330px-Spherical_pressure_waves.gif
 
 ----------
 
@@ -9165,6 +9285,16 @@ R
 ensemble des organismes qui vivent dans l'eau salée
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/World_ocean_map.gif/330px-World_ocean_map.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+S/2003 J 9
+
+C
+
+satellite de Jupiter
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2003_J_9_Gladman_CFHT_annotated.gif/330px-2003_J_9_Gladman_CFHT_annotated.gif
 
 ----------
 
@@ -9222,7 +9352,7 @@ Dislocation de la Yougoslavie
 
 SR
 
-
+processus de dissolution de la Yougoslavie commencé à la fin des années 1980
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Breakup_of_Yugoslavia.gif/330px-Breakup_of_Yugoslavia.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
@@ -9260,7 +9390,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Supraspinatus_muscle_a
 
 Moulage sous vide
 
-C
+PC
 
 procédé de mise en forme par moulage de pièces en matériaux composites
 
@@ -9275,16 +9405,6 @@ PC
 phénomène chimique
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Demixing.gif/330px-Demixing.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-PrimeGrid
-
-C
-
-logiciel informatique
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Primegrid.gif/330px-Primegrid.gif
 
 ----------
 
@@ -9318,13 +9438,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Electric_motor.gif/330
 
 ----------
 
-Muscle scalène postérieur
+Heure
 
-PC
+SR
 
-muscle du cou
+unité de temps de 60 minutes
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Scalenus_posterior_-_animation04.gif/330px-Scalenus_posterior_-_animation04.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AnalogClockAnimation1_2hands_1h_in_6sec.gif/330px-AnalogClockAnimation1_2hands_1h_in_6sec.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -9370,7 +9490,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Atomic_capture.gif/330
 
 NASA Docking System
 
-C
+PC
 
 
 
@@ -9385,16 +9505,6 @@ PC
 modèle informatique
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Typhoon_Mawar_2005_computer_simulation_thumbnail.gif/330px-Typhoon_Mawar_2005_computer_simulation_thumbnail.gif
-
-----------
-
-Institut interuniversitaire de philologie valencienne
-
-C
-
-institut de recherche en Espagne
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Esuni.GIF/330px-Esuni.GIF?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -9530,21 +9640,11 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Langue_de_Barbarie_bre
 
 Yes (Unix)
 
-C
+PC
 
 commande Unix
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Yes-example-command.gif/330px-Yes-example-command.gif
-
-----------
-
-Corps calleux
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Corpus_callosum.gif/330px-Corpus_callosum.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -9650,7 +9750,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Arctic_Circle_oil_spil
 
 Harmonies de la planète Saturne
 
-C
+PC
 
 œuvre musicale de Roberto Lupi; thème de clôture des émissions de la RAI-TV (1954 – '86)
 
@@ -9690,11 +9790,21 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/2013-04-25_21-09-18-ec
 
 Muscle fléchisseur commun des orteils
 
-R
+PC
 
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Inferior_view_of_flexor_digitorum_longus_muscle_-_animation.gif/330px-Inferior_view_of_flexor_digitorum_longus_muscle_-_animation.gif
+
+----------
+
+Os sphénoïde
+
+R
+
+os du crâne
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sphenoid_bone_-_animation_02.gif/330px-Sphenoid_bone_-_animation_02.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -9755,16 +9865,6 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Insight_seisanimate.gif/330px-Insight_seisanimate.gif
-
-----------
-
-2018 en astronomie
-
-PC
-
-événement astronomique liés à l'année 2018
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif/330px-Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -9920,7 +10020,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rotation_ethmoid.gif/3
 
 Barrière d'arrêt
 
-C
+PC
 
 
 
@@ -9960,7 +10060,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Eukelade_s2003j1movie_
 
 Processus frontal du maxillaire
 
-C
+PC
 
 
 
@@ -10030,7 +10130,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/HR_8799_Orbiting_Exopl
 
 Foramen orbitaire
 
-C
+PC
 
 ouverture sur la face antérieure du corps du maxillaire du canal infra-orbitaire
 
@@ -10082,7 +10182,7 @@ Hoka One One
 
 SR
 
-entreprise de chaussures Américaine, fondée à l'origine en France
+entreprise de chaussures américaine, fondée en France
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hoka_One_One_shoe_animation.gif/330px-Hoka_One_One_shoe_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
@@ -10128,6 +10228,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Gravitation.gif/330px-
 
 ----------
 
+Loffer
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Manoeuvre_bateau_-_Loffer.gif/330px-Manoeuvre_bateau_-_Loffer.gif
+
+----------
+
 Approximation de Bernstein
 
 C
@@ -10140,7 +10250,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bernstein_Approximatio
 
 Rayonnement dipolaire électrique
 
-R
+C
 
 
 
@@ -10218,16 +10328,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Regression_pic_assymet
 
 ----------
 
-Chanson illustrée
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Little_Old_Log_Cabin_Illustrated_Song.gif/330px-Little_Old_Log_Cabin_Illustrated_Song.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Muscle biceps fémoral
 
 R
@@ -10235,16 +10335,6 @@ R
 muscle de la cuisse
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Biceps_femoris.gif/330px-Biceps_femoris.gif
-
-----------
-
-Guerre du volume
-
-PC
-
-augmentation du volume sonore par l'industrie du disque
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cd_loudness_trend-something.gif/330px-Cd_loudness_trend-something.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -10265,16 +10355,6 @@ PC
 Linguistique
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Linguistic_map_Southwestern_Europe-en.gif/330px-Linguistic_map_Southwestern_Europe-en.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Déclin démographique des Blancs
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/White_America_%28of_one_race%29_from_1960_to_2020.gif/330px-White_America_%28of_one_race%29_from_1960_to_2020.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -10338,16 +10418,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Gif-Volvelle-astronomi
 
 ----------
 
-Fonction d'étalement du point
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Point_Spread_Function.gif/330px-Point_Spread_Function.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Cycle solaire 23
 
 C
@@ -10370,7 +10440,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Animation_of_2011_QF99
 
 Muscle coracobrachial
 
-PC
+R
 
 muscle du bras
 
@@ -10385,6 +10455,16 @@ C
 satellite de Jupiter
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kale-discovery-CFHT-annotated.gif/330px-Kale-discovery-CFHT-annotated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Suture sphéno-pariétale
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sphenoparietal_suture.gif/330px-Sphenoparietal_suture.gif
 
 ----------
 
@@ -10478,13 +10558,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kansas_2003_tornado_ra
 
 ----------
 
-Animation limitée
+Aúzinho
 
-PC
+C
 
-technique de dessin animé
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/YukiClip2A.gif/330px-YukiClip2A.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/A%C3%BAzinho.gif/330px-A%C3%BAzinho.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -10518,16 +10598,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Inviscid_flow_around_a
 
 ----------
 
-Muscle scalène antérieur
-
-PC
-
-muscle du cou
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Scalenus_anterior_-_animation04.gif/330px-Scalenus_anterior_-_animation04.gif
-
-----------
-
 Tempête Leiv
 
 C
@@ -10550,7 +10620,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Thrombosis_formation.g
 
 Épine iliaque antérieure et supérieure
 
-PC
+R
 
 
 
@@ -10575,6 +10645,16 @@ PC
 Échanges de données entre la RAM et les périphériques sans l'intervention du processeur
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CPU.gif/330px-CPU.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Opisthion
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Occipital_bone_Opisthion_-_animation04.gif/330px-Occipital_bone_Opisthion_-_animation04.gif
 
 ----------
 
@@ -10628,16 +10708,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Boy_Surface-animation-
 
 ----------
 
-Dymaxion
-
-C
-
-page d'homonymie de Wikimédia
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dymaxion_2003_animation_small1.gif/330px-Dymaxion_2003_animation_small1.gif
-
-----------
-
 Commission Hallstein I
 
 C
@@ -10655,6 +10725,16 @@ C
 circulation entre lieux sur une infrastructure
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gare_du_nord_flux.gif/330px-Gare_du_nord_flux.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Olive bulbaire
+
+PC
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Olive_%28medulla_oblongata%29_-_animation.gif/330px-Olive_%28medulla_oblongata%29_-_animation.gif
 
 ----------
 
@@ -10682,7 +10762,7 @@ Thalassophobie
 
 R
 
-Phobie
+C’est la peur des fonds marins
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/32942423_Thalassophobia.gif/330px-32942423_Thalassophobia.gif
 
@@ -10720,7 +10800,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Wurtzite-kassebaum.gif
 
 Fosse iliaque interne
 
-C
+PC
 
 partie de l'os coxal
 
@@ -10730,7 +10810,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Iliac_fossa_02_animati
 
 Polytrope
 
-PC
+C
 
 forme de matière dont l'équation d'état ne dépend que de deux paramètres, la masse volumique et la pression
 
@@ -10808,16 +10888,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ponori.gif/330px-Ponor
 
 ----------
 
-Chronologie de l'invasion de l'Ukraine par la Russie (juillet 2022)
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 (223) Rosa
 
 C
@@ -10855,26 +10925,6 @@ R
 muscle fessier
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gluteus_medius_muscle_-_animation01.gif/330px-Gluteus_medius_muscle_-_animation01.gif
-
-----------
-
-Premier métatarsien
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Left_First_metatarsal_bone_animation01.gif/330px-Left_First_metatarsal_bone_animation01.gif
-
-----------
-
-Roch Hodech
-
-PC
-
-premier jour de chaque mois du calendrier hébraïque
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lunar_libration_with_phase2.gif/330px-Lunar_libration_with_phase2.gif
 
 ----------
 
@@ -10958,16 +11008,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Limnic_eruption.gif/33
 
 ----------
 
-Élargissement de l'OTAN
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Map_of_NATO_chronological.gif/330px-Map_of_NATO_chronological.gif
-
-----------
-
 Saltah
 
 PC
@@ -10992,9 +11032,19 @@ Effort axial
 
 C
 
-
+force qui se transmet avec la même direction qu'un axe quelconque pris comme référence
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Worm_Gear.gif/330px-Worm_Gear.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Astropulse
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Astropulse.gif/330px-Astropulse.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -11045,16 +11095,6 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/1kpc_Star_Map.gif/330px-1kpc_Star_Map.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-FreeCAD
-
-R
-
-Logiciel de CAO (FOSS)
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Clerget_9B_AeroMotor_Parametric_Solid_Model.gif/330px-Clerget_9B_AeroMotor_Parametric_Solid_Model.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -11148,13 +11188,13 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Monte_Carlo.gif/330px-
 
 ----------
 
-Inondations du golfe Persique en 2024
+VB 10
 
 C
 
-inondations en avril 2024 à travers la golfe Persique
+étoile
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2024_Persian_Gulf_floods_precipitation.gif/330px-2024_Persian_Gulf_floods_precipitation.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VB10_mov2.gif/330px-VB10_mov2.gif
 
 ----------
 
@@ -11230,7 +11270,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Navicular_bone_-_anima
 
 Partie du siècle
 
-PC
+R
 
 célèbre partie d'échecs jouée en 1956
 
@@ -11265,16 +11305,6 @@ PC
 processus d'élimination de la fragmentation d'un système de fichier
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/FragmentationDefragmentation.gif/330px-FragmentationDefragmentation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Locuteur
-
-R
-
-personne parlant une langue
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Communication.gif/330px-Communication.gif
 
 ----------
 
@@ -11325,16 +11355,6 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Synthesis_sawtooth.gif/330px-Synthesis_sawtooth.gif
-
-----------
-
-Parrot Disco
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Landscape-1452009666-parrottop.gif/330px-Landscape-1452009666-parrottop.gif
 
 ----------
 
@@ -11428,6 +11448,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/LR_Arginine.gif/330px-
 
 ----------
 
+Os hyoïde
+
+SR
+
+os situé au-dessus du larynx dans la partie antérieure du cou
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hyoid_bone_-_animation.gif/330px-Hyoid_bone_-_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Épine de la scapula
 
 PC
@@ -11470,11 +11500,21 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Radar_images_of_2004_B
 
 Invasion de l'Irak par les États-Unis en 2003
 
-SR
+R
 
 opération militaire de la guerre d'Irak
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Iraq_War_2003.gif/330px-Iraq_War_2003.gif
+
+----------
+
+Problème du cavalier
+
+R
+
+mathématiques
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Knight%27s_tour_anim_2.gif/330px-Knight%27s_tour_anim_2.gif
 
 ----------
 
@@ -11485,16 +11525,6 @@ C
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NavCam_Comet_67P_animation_20140806_%28cropped%29.gif/330px-NavCam_Comet_67P_animation_20140806_%28cropped%29.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Algorithme IMED
-
-C
-
-algorithme de résolution du problème du bandit manchot
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/RunIMEDFR.gif/330px-RunIMEDFR.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -11578,6 +11608,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Neptunian_Trojans.gif/
 
 ----------
 
+Phénomène mutuel
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ph%C3%A9mu_Ph%C3%A9nom%C3%A8ne_mutuel_occultation_de_Ganym%C3%A8de_par_Io.gif/330px-Ph%C3%A9mu_Ph%C3%A9nom%C3%A8ne_mutuel_occultation_de_Ganym%C3%A8de_par_Io.gif
+
+----------
+
 Troisième métacarpien
 
 C
@@ -11595,16 +11635,6 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Evolute_of_parabola.gif/330px-Evolute_of_parabola.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Ymir (lune)
-
-C
-
-satellite de Saturne
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ymir-CFHT.gif/330px-Ymir-CFHT.gif
 
 ----------
 
@@ -11650,7 +11680,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Epicycloid1.gif/330px-
 
 Courbe cycloïdale
 
-C
+PC
 
 
 
@@ -11688,9 +11718,19 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Autost%C3%A9r%C3%A9oTe
 
 ----------
 
+Banda de costas
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Banda_de_Costa.gif/330px-Banda_de_Costa.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Pont magellanique
 
-PC
+C
 
 
 
@@ -11708,6 +11748,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cylindre_cubique.gif/3
 
 ----------
 
+Petite aile de l'os sphénoïde
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lesser_wing_of_sphenoid_bone_-_animation_00.gif/330px-Lesser_wing_of_sphenoid_bone_-_animation_00.gif
+
+----------
+
 Voiture (hippomobile)
 
 R
@@ -11715,6 +11765,16 @@ R
 véhicule muni de deux ou quatre roues, dont la traction est assurée par un ou plusieurs chevaux
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Avenue_des_Champs-%C3%89lys%C3%A9es%2C1899.gif/330px-Avenue_des_Champs-%C3%89lys%C3%A9es%2C1899.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Tomosynthèse
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tomosynthesis_of_chronic_fibrosing_pulmonary_aspergillosis.gif/330px-Tomosynthesis_of_chronic_fibrosing_pulmonary_aspergillosis.gif
 
 ----------
 
@@ -11738,19 +11798,19 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FR10G-1.GIF/330px-FR10
 
 ----------
 
-Muscle carré fémoral
+Résonance orbitale
 
-PC
+R
 
-muscle de la cuisse et du bassin
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Quadratus_femoris_large.gif/330px-Quadratus_femoris_large.gif
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Galilean_moon_Laplace_resonance_animation_2.gif/330px-Galilean_moon_Laplace_resonance_animation_2.gif
 
 ----------
 
 Muscle droit antérieur de la tête
 
-PC
+C
 
 
 
@@ -11828,16 +11888,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TRUE_Procedural_Animat
 
 ----------
 
-Col de la scapula
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Neck_of_left_scapula_-_animation01.gif/330px-Neck_of_left_scapula_-_animation01.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 2016 en astronomie
 
 C
@@ -11855,6 +11905,26 @@ C
 satellite de Saturne
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tarvos-discovery-full.gif/330px-Tarvos-discovery-full.gif
+
+----------
+
+Aplatir la courbe
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20200403_Flatten_the_curve_animated_GIF.gif/330px-20200403_Flatten_the_curve_animated_GIF.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Spirale d'or
+
+R
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GoldenSpiralLogarithmic_color_in.gif/330px-GoldenSpiralLogarithmic_color_in.gif
 
 ----------
 
@@ -11918,16 +11988,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Beta_stirling_animatio
 
 ----------
 
-Autoportrait photographique
-
-PC
-
-genre photographique
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nadar_autoportrait_tournant.gif/330px-Nadar_autoportrait_tournant.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Phonation
 
 PC
@@ -11950,7 +12010,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Aileron_pitch.gif/330p
 
 Plan scénographique de Lyon
 
-C
+PC
 
 plan de Lyon
 
@@ -12018,16 +12078,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Microcavity_dynamics.g
 
 ----------
 
-Somme d'ensembles
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Sumset_examples.gif/330px-Sumset_examples.gif
-
-----------
-
 Ligne de Schwalbe
 
 C
@@ -12058,19 +12108,9 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Haumea-moons-hubble.gi
 
 ----------
 
-Effet Magnus
-
-R
-
-phénomène aérodynamique de déviation d'un objet en rotation
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Magnus-anim-canette.gif/330px-Magnus-anim-canette.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Nicomède (mathématicien)
 
-C
+PC
 
 mathématicien antique
 
@@ -12110,7 +12150,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Schrumpfschlauch_anima
 
 État fragile
 
-C
+PC
 
 type d'État avec de grandes faiblesses
 
@@ -12120,7 +12160,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Failed-states-index-lo
 
 Os plat
 
-PC
+R
 
 os dont la surface est beaucoup plus grande que l'épaisseur
 
@@ -12135,16 +12175,6 @@ PC
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Hofmann_startAnimGif.gif/330px-Hofmann_startAnimGif.gif
-
-----------
-
-Pulsar
-
-SR
-
-objet astrophysique fortement magnétique constitué d'une étoile à neutrons ou d'une naine blanche
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/NASA%E2%80%99s_Fermi_Mission_Finds_300_Gamma-Ray_Pulsars_%28SVS14434_-_pulsar_art_2%29.gif/330px-NASA%E2%80%99s_Fermi_Mission_Finds_300_Gamma-Ray_Pulsars_%28SVS14434_-_pulsar_art_2%29.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -12238,6 +12268,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Infraspinatus_fossa_of
 
 ----------
 
+2023 BU
+
+C
+
+petit astéroïde Apollon
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Animation_of_2023_BU_around_Sun.gif/330px-Animation_of_2023_BU_around_Sun.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
 Conception paramétrique
 
 PC
@@ -12250,7 +12290,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/CAD_Modeling.gif/330px
 
 Cherry picking
 
-R
+SR
 
 mise en avant de faits ou données qui donnent du crédit à une opinion en passant sous silence tous les cas qui la contredisent
 
@@ -12298,16 +12338,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Light_dispersion_conce
 
 ----------
 
-Chronologie de l'invasion de l'Ukraine par la Russie
-
-R
-
-chronologie d'un événement militaire
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Courbe de Watt
 
 C
@@ -12325,16 +12355,6 @@ R
 
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Coilgun_animation.gif/330px-Coilgun_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Deuxième métatarsien
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Left_Second_metatarsal_bone_animation02.gif/330px-Left_Second_metatarsal_bone_animation02.gif
 
 ----------
 
@@ -12368,16 +12388,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Crawl_Steam_branding_i
 
 ----------
 
-Muscle dentelé postérieur et supérieur
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Serratus_posterior_superior_muscle_animation.gif/330px-Serratus_posterior_superior_muscle_animation.gif
-
-----------
-
 Tailstrike
 
 R
@@ -12390,7 +12400,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Japan_Airlines_Boeing_
 
 Diffusion statique de la lumière
 
-C
+PC
 
 
 
@@ -12405,16 +12415,6 @@ R
 système océanique interconnecté de la Terre
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/World_ocean_map-fr.gif/330px-World_ocean_map-fr.gif
-
-----------
-
-Océan
-
-UR
-
-vaste étendue d'eau salée
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/World_ocean_map-fr.gif/330px-World_ocean_map-fr.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
@@ -12448,6 +12448,16 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NGC_4993_and_GRB170817
 
 ----------
 
+Os frontal
+
+R
+
+os du crâne humain
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Frontal_bone_-_animation_02.gif/330px-Frontal_bone_-_animation_02.gif
+
+----------
+
 Sécheresse de 2011-2017 en Californie
 
 C
@@ -12475,16 +12485,6 @@ C
 mesure d'acuité visuelle
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Vernier-anim-03nov2008.gif/330px-Vernier-anim-03nov2008.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Dynamique des gaz raréfiés
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Particle_Simulation_Over_a_Flat_Plate.gif/330px-Particle_Simulation_Over_a_Flat_Plate.gif
 
 ----------
 
@@ -12578,16 +12578,6 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sierpinski_chaos_anima
 
 ----------
 
-(4) Vesta
-
-R
-
-asteroïde de la ceinture principale
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vesta_Rotation.gif/330px-Vesta_Rotation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
 Collège Saint-François-Xavier 1 (Verviers)
 
 C
@@ -12610,7 +12600,7 @@ https://upload.wikimedia.org/wikipedia/fr/3/39/Logo_waterworld.gif
 
 GOOD Music
 
-PC
+R
 
 label discographique américain
 
@@ -12650,7 +12640,7 @@ https://upload.wikimedia.org/wikipedia/fr/5/51/Moreys.gif
 
 Conseil international des infirmières
 
-C
+PC
 
 
 
@@ -12658,13 +12648,13 @@ https://upload.wikimedia.org/wikipedia/fr/6/66/International_concil_of_nurse.gif
 
 ----------
 
-Clippers de Baltimore (1962-1975)
+Korea Stamp Corporation
 
 C
 
 
 
-https://upload.wikimedia.org/wikipedia/fr/b/b5/Clippers_de_Baltimore.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+https://upload.wikimedia.org/wikipedia/fr/6/69/Korean_Stamp_Corporation_logo.gif
 
 ----------
 
@@ -12698,16 +12688,6 @@ https://upload.wikimedia.org/wikipedia/fr/d/d5/Proanima.gif
 
 ----------
 
-Musée national de la Marine de Brest
-
-PC
-
-antenne de Brest du Musée national de la Marine
-
-https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/MNM_LOGO_MUSEE_NATIONAL_DE_LA_MARINE_ANIME.GIF/330px-MNM_LOGO_MUSEE_NATIONAL_DE_LA_MARINE_ANIME.GIF
-
-----------
-
 Musée national de la Marine de Rochefort
 
 PC
@@ -12716,942 +12696,352 @@ antenne de Rochefort du Musée national de la Marine
 
 https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/MNM_LOGO_MUSEE_NATIONAL_DE_LA_MARINE_ANIME.GIF/330px-MNM_LOGO_MUSEE_NATIONAL_DE_LA_MARINE_ANIME.GIF?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
-----------
+----------#
 
-Sphéricône
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/9/9b/Sphericon-ani.gif
-
-----------
-
-Cylindre sphérique
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cylindre_sph%C3%A9rique_construction.gif/330px-Cylindre_sph%C3%A9rique_construction.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Bid et ask
+Coup de tête
 
 PC
 
+coup percuttant avec la tête
 
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Order_book_depth_chart.gif/330px-Order_book_depth_chart.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Fosse condylaire
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Condyloid_fossa_-_animation01.gif/330px-Condyloid_fossa_-_animation01.gif
+https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Coup_de_t%C3%AAte.gif/330px-Coup_de_t%C3%AAte.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
-Onde sphérique
-
-PC
-
-onde dont les fronts d'onde sont des sphères
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Spherical_pressure_waves.gif/330px-Spherical_pressure_waves.gif
-
-----------
-
-Os sphénoïde
+Moteur à combustion
 
 R
-
-os du crâne
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sphenoid_bone_-_animation_02.gif/330px-Sphenoid_bone_-_animation_02.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Suture sphéno-pariétale
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sphenoparietal_suture.gif/330px-Sphenoparietal_suture.gif
-
-----------
-
-Petite aile de l'os sphénoïde
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Lesser_wing_of_sphenoid_bone_-_animation_00.gif/330px-Lesser_wing_of_sphenoid_bone_-_animation_00.gif
-
-----------
-
-Spirale d'or
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/GoldenSpiralLogarithmic_color_in.gif/330px-GoldenSpiralLogarithmic_color_in.gif
-
-----------
-
-Tolérance aux pannes
-
-PC
-
-
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/802d1aqECMP.gif/330px-802d1aqECMP.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Royaume de Galice
-
-R
-
-
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Galiciamaptimes.gif/330px-Galiciamaptimes.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Radical 128
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/0/07/%E8%80%B3-order.gif
-
-----------
-
-Radical 100
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/0/0a/%E7%94%9F-order.gif
-
-----------
-
-Radical 57
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/1/12/%E5%BC%93-order.gif
-
-----------
-
-Radical 55
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/1/13/%E5%BB%BE-order.gif
-
-----------
-
-Radical 46
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/1/14/%E5%B1%B1-order.gif
-
-----------
-
-Radical 15
-
-C
-
-clé chinoise traditionnelle glace (U+2F0E)
-
-https://upload.wikimedia.org/wikipedia/commons/1/1c/%E5%86%AB-order.gif
-
-----------
-
-Sport en Croatie
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/3/30/Republic_of_Croatia_flag_map_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Radical 19
-
-C
-
-clé chinoise traditionnelle force (U+2F12)
-
-https://upload.wikimedia.org/wikipedia/commons/3/33/%E5%8A%9B-order.gif
-
-----------
-
-Radical 47
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/3/3f/%E5%B7%9D-order.gif
-
-----------
-
-Radical 2
-
-C
-
-clé chinoise traditionnelle ligne (U+2F01)
-
-https://upload.wikimedia.org/wikipedia/commons/4/40/%E4%B8%A8-order.gif
-
-----------
-
-Radical 169
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/6/68/%E9%96%80-order.gif
-
-----------
-
-Radical 39
-
-C
-
-clé chinoise traditionnelle enfant (U+2F26)
-
-https://upload.wikimedia.org/wikipedia/commons/8/83/%E5%AD%90-order.gif
-
-----------
-
-Radical 3
-
-C
-
-clé chinoise traditionnelle point (U+2F02)
-
-https://upload.wikimedia.org/wikipedia/commons/8/8e/%E4%B8%B6-order.gif
-
-----------
-
-Thaumatrope
-
-R
-
-jouet optique
-
-https://upload.wikimedia.org/wikipedia/commons/9/9f/Taumatropio_fiori_e_vaso%2C_1825.gif
-
-----------
-
-Radical 24
-
-C
-
-clé chinoise traditionnelle dix (U+2F17)
-
-https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%8D%81-order.gif
-
-----------
-
-Radical 16
-
-C
-
-clé chinoise traditionnelle table basse (U+2F0F)
-
-https://upload.wikimedia.org/wikipedia/commons/e/e2/%E5%87%A0-order.gif
-
-----------
-
-Radical 84
-
-C
-
-radical de l'écriture traditionnelle chinoise
-
-https://upload.wikimedia.org/wikipedia/commons/f/f2/%E6%B0%94-order.gif
-
-----------
-
-Rotation de Mercure
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Orbital_resonance_of_Mercury.gif/330px-Orbital_resonance_of_Mercury.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Spondé (lune)
-
-C
-
-satellite de Jupiter
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sponde-discovery-CFHT-annotated.gif/330px-Sponde-discovery-CFHT-annotated.gif
-
-----------
-
-Suture coronale
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Coronal_suture_-_animation04.gif/330px-Coronal_suture_-_animation04.gif
-
-----------
-
-Aúzinho
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/A%C3%BAzinho.gif/330px-A%C3%BAzinho.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Os hyoïde
-
-SR
-
-os situé au-dessus du larynx dans la partie antérieure du cou
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hyoid_bone_-_animation.gif/330px-Hyoid_bone_-_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Aplatir la courbe
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/20200403_Flatten_the_curve_animated_GIF.gif/330px-20200403_Flatten_the_curve_animated_GIF.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Vanth (lune)
-
-C
-
-
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Orcus-Vanth_orbit.gif/330px-Orcus-Vanth_orbit.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Os courts
-
-PC
-
-
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Short_bones_-_animation.gif/330px-Short_bones_-_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-(524522) Zoozve
-
-PC
-
-astéroïde
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/524522_Zoozve_rotating_frame_planets.gif/330px-524522_Zoozve_rotating_frame_planets.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Nouvelle lune
-
-SR
-
-phase lunaire où aucune partie de la Lune visible depuis la Terre n’est éclairée par le Soleil et où le disque observable de jour sur Terre est entièrement plongé dans la nuit lunaire et donc très peu visible (sauf en cas d’éclipse solaire)
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lunar_libration_with_phase2.gif/330px-Lunar_libration_with_phase2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Moteur à disque en nutation
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/0/0f/Dakeyne_disc_engine_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
-
-----------
-
-Système trois anneaux
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/2/25/3Ring_release_animation.gif
-
-----------
-
-Kaoani
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/3/38/Onigiri_cheerleader.gif
-
-----------
-
-Lotrioara
-
-C
-
-rivière de Roumanie
-
-https://upload.wikimedia.org/wikipedia/commons/5/5c/Modelare_3D_pentru_Bazinul_hidrografic_al_Raului_Lotrioara%2C_afluent_Olt.gif
-
-----------
-
-Muntele Mic
-
-C
-
-montagne roumaine
-
-https://upload.wikimedia.org/wikipedia/commons/6/6c/Muntele_Mic_3D_version_1.gif
-
-----------
-
-Xymon
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/8/88/Red-recent.gif
-
-----------
-
-Jeu de pousse-pousse
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/a/a5/Batgirl.gif
-
-----------
-
-Pont rétractable
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/b/b1/MovableBridge_thrust.gif
-
-----------
-
-Tempête hivernale européenne
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/b/b9/Xynthia_animated_small.gif
-
-----------
-
-Rotation
-
-PC
-
-page d'homonymie de Wikimedia
-
-https://upload.wikimedia.org/wikipedia/commons/d/de/Rondanimeneutre.gif
-
-----------
-
-Rhéa (lune)
-
-R
-
-satellite de Saturne
-
-https://upload.wikimedia.org/wikipedia/commons/e/ea/Rhea.gif
-
-----------
-
-Symétrie centrale
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Date_%C3%A0_Sym%C3%A9trie_Centrale.gif/330px-Date_%C3%A0_Sym%C3%A9trie_Centrale.gif
-
-----------
-
-Fornix
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Fornix.gif/330px-Fornix.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Pupille (optique)
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Pupilles_entr%C3%A9e_sortie_01.gif/330px-Pupilles_entr%C3%A9e_sortie_01.gif
-
-----------
-
-(5222) Ioffe
-
-C
-
-astéroïde de la ceinture principale d'astéroïdes
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ioffe.GIF/330px-Ioffe.GIF?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Mutations du breton
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Mutations_en_breton.gif/330px-Mutations_en_breton.gif
-
-----------
-
-Chine (homonymie)
-
-PC
 
 page d'homonymie de Wikimédia
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zhongguo.gif/330px-Zhongguo.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/4StrokeEngine_Ortho_3D.gif/330px-4StrokeEngine_Ortho_3D.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
-S/2003 J 4
-
-C
-
-satellite de Jupiter
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2003_J_4_Gladman_CFHT_annotated.gif/330px-2003_J_4_Gladman_CFHT_annotated.gif
-
-----------
-
-Neurocrâne
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Neurocranium_-_animation02.gif/330px-Neurocranium_-_animation02.gif
-
-----------
-
-Rotomoulage
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rotational_molding_animation.gif/330px-Rotational_molding_animation.gif
-
-----------
-
-Orbite en fer à cheval
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Animation_of_%28419624%29_2010_SO16_orbit.gif/330px-Animation_of_%28419624%29_2010_SO16_orbit.gif
-
-----------
-
-Os temporal
-
-R
-
-os du crâne
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Temporal_bone_-_animation_01.gif/330px-Temporal_bone_-_animation_01.gif
-
-----------
-
-Papier chinois
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Making_Paper.gif/330px-Making_Paper.gif
-
-----------
-
-Tempête Bruno (2017)
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BrunoEdilbertstorm.gif/330px-BrunoEdilbertstorm.gif
-
-----------
-
-Point coulé
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lockstitch-Oscillating_Hook-600.gif/330px-Lockstitch-Oscillating_Hook-600.gif
-
-----------
-
-Mur rouge (politique britannique)
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UK_General_Election_2017-19_result_changes.gif/330px-UK_General_Election_2017-19_result_changes.gif
-
-----------
-
-États des États-Unis par ordre d'entrée dans l'Union
+Discographie de Muse
 
 SR
 
-page de liste de Wikimédia
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_states_by_date_of_statehood.gif/330px-US_states_by_date_of_statehood.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
-----------
-
-S/2003 J 9
-
-C
-
-satellite de Jupiter
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2003_J_9_Gladman_CFHT_annotated.gif/330px-2003_J_9_Gladman_CFHT_annotated.gif
+https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Matt_Bellamy_playing_with_sound_%40_Royal_Albert_Hall_2018.gif/330px-Matt_Bellamy_playing_with_sound_%40_Royal_Albert_Hall_2018.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
-Heure
+Yaniv (jeu de cartes)
+
+UR
+
+Jeu de cartes népalais
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Cards_2.gif/330px-Cards_2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Élargissement de l'Union européenne
 
 SR
 
-unité de temps de 60 minutes
+intégration successive des États dans l'Union Européenne
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AnalogClockAnimation1_2hands_1h_in_6sec.gif/330px-AnalogClockAnimation1_2hands_1h_in_6sec.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/EC-EU-enlargement_animation.gif/330px-EC-EU-enlargement_animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
-Tempête Zeus
+Chronologie de l'invasion de l'Ukraine par la Russie (septembre 2022)
 
 C
 
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Storm_Zeus_vapor.gif/330px-Storm_Zeus_vapor.gif
+https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
-Loffer
+Identification du meilleur bras
+
+C
+
+
+
+https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Identification_du_meilleur_bras_run.gif/330px-Identification_du_meilleur_bras_run.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Étoile binaire
 
 R
 
+étoile multiple composée de deux étoiles orbitant autour d'un centre de gravité commun
 
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Manoeuvre_bateau_-_Loffer.gif/330px-Manoeuvre_bateau_-_Loffer.gif
+https://upload.wikimedia.org/wikipedia/commons/0/07/Eclipsing_binary_star_animation_2.gif
 
 ----------
 
-Opisthion
+Hanche
+
+SR
+
+partie de l'anatomie
+
+https://upload.wikimedia.org/wikipedia/commons/0/09/Hip_bone_animation3.gif
+
+----------
+
+Thermodynamique hors équilibre
+
+PC
+
+domaine de recherche étudiant les phénomènes de relaxation et de transport au voisinage de l'équilibre thermodynamique
+
+https://upload.wikimedia.org/wikipedia/commons/1/16/Melting_icecubes.gif
+
+----------
+
+Entrelacement (image matricielle)
 
 C
 
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Occipital_bone_Opisthion_-_animation04.gif/330px-Occipital_bone_Opisthion_-_animation04.gif
+https://upload.wikimedia.org/wikipedia/commons/2/27/Adam7_passes.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
 
 ----------
 
-Olive bulbaire
+Icositétraèdre trapézoïdal
+
+PC
+
+polyèdre convexe formé de 24 cerf-volants
+
+https://upload.wikimedia.org/wikipedia/commons/4/41/Deltoidalicositetrahedron.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Mécanique spatiale
+
+PC
+
+Dans le domaine de l'astronomie et de l'astronautique science qui traite de l'étude des mouvements.
+
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Orbital_motion.gif
+
+----------
+
+Rotation irrationnelle
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/6/61/Sturmian-sequence-from-irrational-rotation.gif
+
+----------
+
+Nanotube de carbone
+
+R
+
+forme allotropique du carbone appartenant à la famille des fullerènes
+
+https://upload.wikimedia.org/wikipedia/commons/7/76/Kohlenstoffnanoroehre_Animation.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Radical 1
+
+C
+
+clé chinoise traditionnelle un (U+2F00)
+
+https://upload.wikimedia.org/wikipedia/commons/7/7c/%E4%B8%80-order.gif
+
+----------
+
+Neanthes
+
+C
+
+genre de vers annélides polychètes de la famille des Nereididae
+
+https://upload.wikimedia.org/wikipedia/commons/8/84/Nereis_small.gif
+
+----------
+
+Sous-unité ribosomique 50S
+
+C
+
+
+
+https://upload.wikimedia.org/wikipedia/commons/8/85/010_large_subunit-1FFK.gif
+
+----------
+
+Macédoine (terminologie)
+
+PC
+
+toponyme de la Macédoine
+
+https://upload.wikimedia.org/wikipedia/commons/8/8a/HistMac.gif
+
+----------
+
+Supercontinent
+
+SR
+
+masse continentale comprenant plus d’un craton
+
+https://upload.wikimedia.org/wikipedia/commons/8/8e/Pangea_animation_03.gif
+
+----------
+
+État cohérent
+
+PC
+
+état quantique d'un oscillateur harmonique quantique se comportant comme un classique
+
+https://upload.wikimedia.org/wikipedia/commons/9/90/QuantumHarmonicOscillatorAnimation.gif
+
+----------
+
+Meuleuse
+
+PC
+
+outil rotatif qui tronçonne ou use divers matériaux
+
+https://upload.wikimedia.org/wikipedia/commons/a/a2/Rotating_grinder.gif
+
+----------
+
+Jai Paul
+
+PC
+
+musicien britannique
+
+https://upload.wikimedia.org/wikipedia/commons/b/b9/Jai_Paul%27s_concert_at_the_%C3%89lys%C3%A9e_Montmartre_in_Paris_-_Nov_2023.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Syndrome post-hallucinatoire persistant
+
+R
+
+trouble de la perception non psychotique suite à la prise d'hallucinogènes
+
+https://upload.wikimedia.org/wikipedia/commons/c/c0/Red-blue-noise.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Capteur piézoélectrique
+
+R
+
+type de capteur
+
+https://upload.wikimedia.org/wikipedia/commons/c/c4/SchemaPiezo.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Streetfighters : La Rage de vaincre
+
+PC
+
+film sorti en 1993
+
+https://upload.wikimedia.org/wikipedia/commons/c/cc/Capoeira_animation_auregional.gif
+
+----------
+
+(134860) 2000 OJ67
+
+C
+
+objet transneptunien
+
+https://upload.wikimedia.org/wikipedia/commons/f/f2/Orbit2.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled
+
+----------
+
+Orbite elliptique
+
+PC
+
+type d'orbite
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Orbit5.gif/330px-Orbit5.gif
+
+----------
+
+1960
+
+SR
+
+année du XXe siècle
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/African_nations_order_of_independence_1950-1993.gif/330px-African_nations_order_of_independence_1950-1993.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Algorithme UCB
 
 PC
 
 
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Olive_%28medulla_oblongata%29_-_animation.gif/330px-Olive_%28medulla_oblongata%29_-_animation.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/UCB2FR.gif/330px-UCB2FR.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
-Astropulse
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Astropulse.gif/330px-Astropulse.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-VB 10
-
-C
-
-étoile
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VB10_mov2.gif/330px-VB10_mov2.gif
-
-----------
-
-Pas (équitation)
-
-PC
-
-allure du cheval
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Muybridge_horse_walking_animated.gif/330px-Muybridge_horse_walking_animated.gif
-
-----------
-
-Tempête Ana (2017)
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/AnaYves.gif/330px-AnaYves.gif
-
-----------
-
-Problème du cavalier
+(101955) Bénou
 
 R
-
-mathématiques
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Knight%27s_tour_anim_2.gif/330px-Knight%27s_tour_anim_2.gif
-
-----------
-
-Phénomène mutuel
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ph%C3%A9mu_Ph%C3%A9nom%C3%A8ne_mutuel_occultation_de_Ganym%C3%A8de_par_Io.gif/330px-Ph%C3%A9mu_Ph%C3%A9nom%C3%A8ne_mutuel_occultation_de_Ganym%C3%A8de_par_Io.gif
-
-----------
-
-Banda de costas
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Banda_de_Costa.gif/330px-Banda_de_Costa.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Tomosynthèse
-
-C
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tomosynthesis_of_chronic_fibrosing_pulmonary_aspergillosis.gif/330px-Tomosynthesis_of_chronic_fibrosing_pulmonary_aspergillosis.gif
-
-----------
-
-Résonance orbitale
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Galilean_moon_Laplace_resonance_animation_2.gif/330px-Galilean_moon_Laplace_resonance_animation_2.gif
-
-----------
-
-2023 BU
-
-C
-
-petit astéroïde Apollon
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Animation_of_2023_BU_around_Sun.gif/330px-Animation_of_2023_BU_around_Sun.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Minute (temps)
-
-R
-
-unité de temps
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1_Munite_Clock.gif/330px-1_Munite_Clock.gif
-
-----------
-
-Os frontal
-
-R
-
-os du crâne humain
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Frontal_bone_-_animation_02.gif/330px-Frontal_bone_-_animation_02.gif
-
-----------
-
-Yang Hui
-
-C
-
-mathématicien chinois
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yanghui_magic_square.GIF/330px-Yanghui_magic_square.GIF
-
-----------
-
-Panique du noyau
-
-PC
-
-
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Forced-linux-kernel-panic-under-qemu.gif/330px-Forced-linux-kernel-panic-under-qemu.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Entrée atmosphérique des météoroïdes
-
-R
-
-
-
-https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Meteorite_explosion_over_Chelyabinsk_on_February_15%2C_2013.gif/330px-Meteorite_explosion_over_Chelyabinsk_on_February_15%2C_2013.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-Rondade
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/5/52/Gymnastics_0000.gif
-
-----------
-
-Pompe à palettes
-
-R
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/e/e1/Pompe_%C3%A0_palettes.gif
-
-----------
-
-Série de marées-noires en Bretagne des années 1970
-
-R
-
-page de liste de Wikimedia
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mar%C3%A9esNoires_Bretagne_70s.gif/330px-Mar%C3%A9esNoires_Bretagne_70s.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
-
-----------
-
-(54509) YORP
-
-C
 
 astéroïde
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/54509_YORP_image_radar_and_3D_model.gif/330px-54509_YORP_image_radar_and_3D_model.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif/330px-Asteroid-Bennu-OSIRIS-RExArrival-GifAnimation-20181203.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
 ----------
 
-Moteur carré
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bore_Stroke_Ratio_Animation.gif/330px-Bore_Stroke_Ratio_Animation.gif
-
-----------
-
-Théorie JKR
-
-PC
-
-
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/JKR-full-cycle.gif/330px-JKR-full-cycle.gif
-
-----------
-
-Korea Stamp Corporation
+Chronologie de l'invasion de l'Ukraine par la Russie (juin 2022)
 
 C
 
 
 
-https://upload.wikimedia.org/wikipedia/fr/6/69/Korean_Stamp_Corporation_logo.gif
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_2_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
-----------#
+----------
 
-.bat
+Libration lunaire
 
-R
+PC
+
+phénomène physique qui permet à un observateur sur Terre de voir plus de 50 % de la surface de la Lune au cours d'un cycle
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Lunar_libration_with_phase2.gif/330px-Lunar_libration_with_phase2.gif
+
+----------
+
+Chronologie de l'invasion de l'Ukraine par la Russie (avril 2022)
+
+PC
 
 
-https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Endlosschleife_durch_Batchdatei_%28Windows_8.1%29.webp/330px-Endlosschleife_durch_Batchdatei_%28Windows_8.1%29.webp?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
 
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif/330px-2022_Russian_Invasion_of_Ukraine_Phase_1_animated.gif?utm_source=fr.wikipedia.org&utm_campaign=api&utm_content=thumbnail
+
+----------
+
+Musée national de la Marine de Port-Louis
+
+PC
+
+musée situé à Port-Louis, en France
+
+https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/MNM_LOGO_MUSEE_NATIONAL_DE_LA_MARINE_ANIME.GIF/330px-MNM_LOGO_MUSEE_NATIONAL_DE_LA_MARINE_ANIME.GIF
