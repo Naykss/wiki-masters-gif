@@ -43,8 +43,8 @@
   #q:focus, select:focus { outline:2px solid #2fbf8f66; }
   select { padding:12px; border-radius:12px; border:1px solid var(--line); background:var(--panel); color:var(--txt); font-size:14px; }
   #favonly { padding:12px 16px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
-  #copyall, #copyfavs { padding:12px 16px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
-  #copyall:hover, #copyfavs:hover { border-color:#facc15; }
+  #tools { padding:12px 16px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--txt); font-weight:700; cursor:pointer; }
+  #tools:hover { border-color:#facc15; }
   #favonly.on { background:#facc15; border-color:#facc15; color:#3a2f00; }
 
   /* ---------- cartes ---------- */
@@ -80,6 +80,22 @@
   .star { position:absolute; top:5px; right:5px; z-index:3; padding:4px; background:none; border:0; line-height:0; cursor:pointer; opacity:0; transition:opacity .15s; }
   .card:hover .star { opacity:1; }
   @media (hover:none) { .star { opacity:1; } }
+  .cross { position:absolute; top:5px; left:5px; z-index:3; padding:4px; background:none; border:0; line-height:0; cursor:pointer; opacity:0; transition:opacity .15s; }
+  .card:hover .cross { opacity:1; }
+  @media (hover:none) { .cross { opacity:1; } }
+  .cross.on { opacity:1; }
+  .cross svg { width:24px; height:24px; fill:none; stroke:rgba(255,255,255,.9); stroke-width:2.2; stroke-linecap:round; filter:drop-shadow(0 1px 3px rgba(0,0,0,.7)); }
+  .cross.on svg { stroke:#ef4444; stroke-width:3; filter:drop-shadow(0 0 3px rgba(0,0,0,.9)); }
+  #toolsOv { position:fixed; inset:0; z-index:9000; display:none; align-items:center; justify-content:center; padding:16px; background:rgba(0,0,0,.65); }
+  #toolsOv.on { display:flex; }
+  #toolsBox { width:min(440px,100%); max-height:90vh; overflow:auto; padding:20px; border-radius:16px; background:var(--panel); border:1px solid var(--line); }
+  #toolsBox h2 { margin:0 0 4px; font-size:18px; }
+  #toolsBox h4 { margin:16px 0 8px; font-size:12px; letter-spacing:.08em; text-transform:uppercase; color:var(--dim); }
+  #toolsBox .row { display:flex; gap:8px; flex-wrap:wrap; }
+  #toolsBox button.t { flex:1 1 180px; padding:11px 12px; border:1px solid var(--line); border-radius:10px; background:#0c0c0e; color:var(--txt); font-weight:600; cursor:pointer; }
+  #toolsBox button.t:hover { border-color:#facc15; }
+  #toolsBox .hint { margin:6px 0 0; color:var(--dim); font-size:12px; }
+  #toolsClose { float:right; background:none; border:0; color:var(--dim); font-size:22px; line-height:1; cursor:pointer; }
   .star svg { width:24px; height:24px; fill:rgba(255,255,255,.1); stroke:rgba(255,255,255,.9); stroke-width:1.6; stroke-linejoin:round; filter:drop-shadow(0 1px 3px rgba(0,0,0,.7)); }
   .star.on svg { fill:#facc15; stroke:#facc15; }
 
@@ -176,14 +192,31 @@
       <option value="rarity">Tri : rareté (L → C)</option>
       <option value="fav">Tri : favoris d'abord</option>
       <option value="recent">Tri : plus récents</option>
+      <option value="nocross">Tri : sans croix</option>
     </select>
     <button id="favonly" title="Afficher seulement les favoris">★ Favoris</button>
-    <button id="copyall" title="Copier le nom de toutes les cartes (un par ligne)">Copier tous les noms</button>
-    <button id="copyfavs" title="Copier le nom des cartes en favori (un par ligne)">Copier les noms favoris</button>
+    <button id="tools" title="Importer, exporter, copier les listes">⚙ Outils</button>
   </div>
 
   <div id="grid"></div>
   <div id="empty" hidden>Aucune carte pour le moment.<br>Ajoute tes cartes dans le fichier cartes.txt.</div>
+  <div id="toolsOv"><div id="toolsBox" role="dialog" aria-label="Outils">
+    <button id="toolsClose" title="Fermer">×</button>
+    <h2>Outils</h2>
+    <h4>Sauvegarde (changer de navigateur)</h4>
+    <div class="row">
+      <button class="t" id="tExport">⬇ Exporter</button>
+      <button class="t" id="tImport">⬆ Importer</button>
+    </div>
+    <p class="hint">Exporte tes favoris et tes croix dans un fichier, puis importe-le sur l'autre navigateur. L'import s'ajoute à ce que tu as déjà.</p>
+    <input id="tFile" type="file" accept=".json,application/json" hidden>
+    <h4>Copier les noms (un par ligne)</h4>
+    <div class="row">
+      <button class="t" id="tCopyFavs"></button>
+      <button class="t" id="tCopyAll"></button>
+      <button class="t" id="tCopyCross"></button>
+    </div>
+  </div></div>
   <div id="toast"></div>
   <button id="more" hidden style="display: none;">Afficher plus</button>
 </div>
@@ -209,6 +242,8 @@ const io = new IntersectionObserver((entries) => {
 let cards = [], filtered = [], shown = 0, favOnly = false;
 const activeR = new Set(ORDER);
 let favs = new Set();
+let crosses = new Set();
+const CROSS = '<svg viewBox="0 0 24 24"><path d="M5 5l14 14M19 5L5 19"/></svg>';
 
 function parse(text) {
   const out = [], seen = new Set();
@@ -274,13 +309,13 @@ function renderStats() {
   s.appendChild(t);
   const n = document.createElement("div");
   n.className = "note";
-  n.textContent = "★ Vos favoris sont enregistrés dans les cookies sur cet appareil uniquement. Si vous supprimez les cookies ou utilisez la navigation privée ou changez de navigateur ou d'appareil vos favoris seront perdus.";
+  n.textContent = "★ Vos favoris et vos croix sont enregistrés sur cet appareil uniquement. Pour les garder si vous supprimez les données, utilisez la navigation privée ou changez de navigateur : ⚙ Outils → Exporter / Importer.";
   s.appendChild(n);
 }
 
 function updateTotal() {
   const t = $("total");
-  if (t) t.textContent = `${filtered.length} affichées · ${cards.length} au total · ★ ${favs.size}`;
+  if (t) t.textContent = `${filtered.length} affichées · ${cards.length} au total · ★ ${favs.size} · ✕ ${crosses.size}`;
 }
 
 function apply() {
@@ -289,6 +324,9 @@ function apply() {
     (c.rarity === "?" || activeR.has(c.rarity)) &&
     (!favOnly || favs.has(c.url)) &&
     words.every((w) => c.key.includes(w)));
+  if ($("sort").value === "nocross") {
+    list = list.filter((c) => !crosses.has(c.url));
+  }
   if ($("sort").value === "recent") {
     list = list.slice().sort((a, b) => b.idx - a.idx);
   }
@@ -314,6 +352,7 @@ function hl(el, text, words) {
   });
 }
 
+function saveCross() { try { localStorage.setItem("galerie-cross", JSON.stringify([...crosses])); } catch (e) {} }
 function saveFavs() { try { localStorage.setItem("galerie-favs", JSON.stringify([...favs])); } catch (e) {} }
 
 function more() {
@@ -358,7 +397,19 @@ function more() {
       info.append(n, p, nw, f); d.classList.add("has-new");
     } else info.append(n, p, f);
 
-    d.append(pic, st, info);
+    const cr = document.createElement("button");
+    cr.className = "cross" + (crosses.has(c.url) ? " on" : "");
+    cr.title = "Croix (masquable avec « Tri : sans croix »)";
+    cr.innerHTML = CROSS;
+    cr.onclick = (e) => {
+      e.stopPropagation();
+      if (crosses.has(c.url)) crosses.delete(c.url); else crosses.add(c.url);
+      cr.classList.toggle("on", crosses.has(c.url));
+      saveCross();
+      updateTotal();
+    };
+
+    d.append(pic, st, cr, info);
     frag.appendChild(d);
   }
   $("grid").appendChild(frag);
@@ -376,8 +427,50 @@ function copyNames(list, label) {
     navigator.clipboard.writeText(txt).then(done, () => fallbackCopy(txt, done));
   } else fallbackCopy(txt, done);
 }
-$("copyall").onclick = () => copyNames(cards, "");
-$("copyfavs").onclick = () => copyNames(cards.filter((c) => favs.has(c.url)), " (favoris)");
+const names = (set) => cards.filter((c) => set.has(c.url));
+function openTools() {
+  $("tCopyFavs").textContent = "Copier tous les favoris (" + names(favs).length + ")";
+  $("tCopyAll").textContent = "Copier toutes les cartes (" + cards.length + ")";
+  $("tCopyCross").textContent = "Copier toutes les cartes croix (" + names(crosses).length + ")";
+  $("toolsOv").classList.add("on");
+}
+const closeTools = () => $("toolsOv").classList.remove("on");
+$("tools").onclick = openTools;
+$("toolsClose").onclick = closeTools;
+$("toolsOv").onclick = (e) => { if (e.target === $("toolsOv")) closeTools(); };
+document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeTools(); });
+$("tCopyFavs").onclick = () => copyNames(names(favs), " (favoris)");
+$("tCopyAll").onclick = () => copyNames(cards, "");
+$("tCopyCross").onclick = () => copyNames(names(crosses), " (croix)");
+$("tExport").onclick = () => {
+  const data = { app: "wiki-masters-gif", version: 1, favs: [...favs], cross: [...crosses] };
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([JSON.stringify(data)], { type: "application/json" }));
+  a.download = "galerie-sauvegarde.json";
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+  toast("Exporté : " + favs.size + " favoris, " + crosses.size + " croix");
+};
+$("tImport").onclick = () => $("tFile").click();
+$("tFile").onchange = () => {
+  const f = $("tFile").files[0];
+  $("tFile").value = "";
+  if (!f) return;
+  const rd = new FileReader();
+  rd.onload = () => {
+    try {
+      const d = JSON.parse(rd.result);
+      const fv = Array.isArray(d.favs) ? d.favs.filter((u) => typeof u === "string") : [];
+      const cx = Array.isArray(d.cross) ? d.cross.filter((u) => typeof u === "string") : [];
+      if (!fv.length && !cx.length && !Array.isArray(d.favs) && !Array.isArray(d.cross)) throw new Error("format");
+      fv.forEach((u) => favs.add(u)); cx.forEach((u) => crosses.add(u));
+      saveFavs(); saveCross(); apply();
+      closeTools();
+      toast("Importé : " + fv.length + " favoris, " + cx.length + " croix");
+    } catch (e) { toast("Fichier invalide"); }
+  };
+  rd.readAsText(f);
+};
 $("favonly").onclick = () => { favOnly = !favOnly; $("favonly").classList.toggle("on", favOnly); apply(); };
 let t;
 $("q").oninput = () => { clearTimeout(t); t = setTimeout(apply, 150); };
@@ -387,6 +480,7 @@ window.addEventListener("scroll", () => {
 
 // démarrage : texte du code + favoris sauvegardés
 try { favs = new Set(JSON.parse(localStorage.getItem("galerie-favs") || "[]")); } catch (e) {}
+try { crosses = new Set(JSON.parse(localStorage.getItem("galerie-cross") || "[]")); } catch (e) {}
 renderStats();
 apply();
 fetch("cartes.txt", { cache: "no-cache" })
