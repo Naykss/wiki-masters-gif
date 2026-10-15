@@ -13556,7 +13556,7 @@ mathématicien chinois
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yanghui_magic_square.GIF/330px-Yanghui_magic_square.GIF
 
-----------#
+----------
 
 Panique du noyau
 
@@ -13646,7 +13646,7 @@ C
 
 https://upload.wikimedia.org/wikipedia/fr/6/69/Korean_Stamp_Corporation_logo.gif
 
-----------
+----------#
 
 .bat
 
